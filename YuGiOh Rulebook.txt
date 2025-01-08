@@ -1,0 +1,471 @@
+Rules
+Perfect Rulebook 2015
+Perfect Rulebook 2017
+Japanese Rulebook
+Double Summon List
+Conjunctions
+
+Contents
+n. Card Types
+00.	General
+01.	Monster
+02.	Main Deck Monster (Unofficial term)
+02.6.	Effect
+02.7.	Flip
+02.8.	Gemini
+02.9.	Normal
+02.10.	Pendulum
+02.11.	Ritual
+02.12.	Spirit
+02.13.	Toon
+02.14.	Tuner
+02.15.	Union
+02.16.	Special Summon
+03.	Extra Deck Monster (Unofficial term)
+03.5.	Fusion
+03.6.	Link
+03.7.	Synchro
+03.8.	Xyz
+n. Summons
+01.	General
+02.	Normal/Tribute Summon
+n. Card Types
+00. General
+
+00.1.	The card types are Monster, Spell and Trap.
+
+00.2.	A card can change card type during a duel. The only times this occurs is when a Pendulum Monster is placed in a Pendulum Zone and by card effects.
+
+00.3.	Cards can have multiple card types at the same time (see trap monsters TODO) but this additional types can only be gained by effect and that effect specifies that the added type is not removed.
+
+00.2a.	The card will have the new type as long as it’s on the field and the card or effect that added it is still applying
+
+00.2b.	These cards are subject to cards and effects that affect either of those types.
+
+01. Monster
+
+01.1.	Monsters have 1 Type.
+
+01.1a.	The Type can be found at the top left of the effect box, inside the first square brackets. All other words inside bracket next to the Type are abilities of the card. (See 01.5 for abilities)
+
+01.1b.	When a card refers to “Type” in its card text it refers to these Type unless it specifies otherwise.
+
+01.1c.	The Type are the following: Aqua, Beast, Beast-Warrior, Cyberse, Dinosaur, Divine-Beast, Dragon, Fairy, Fiend, Fish, Illusion, Insect, Machine, Plant, Psychic, Pyro, Reptile, Rock, Sea Serpent, Spellcaster, Thunder, Warrior, Winged Beast, Wyrm, and Zombie. TODO
+
+01.2.	Monsters have an Attribute that can be one of the following: DARK, DIVINE, EARTH, FIRE, LIGHT, WATER and WIND. TODO 
+
+01.3.	Monsters have attack points (ATK) and a defense points (DEF) (The values in the lower right corner of the card) except Link monsters that only have ATK. (See Link TODO) TODO ??? ATK
+
+01.4.	Monsters have a Level, a Rank or a LINK rating depending on their abilities.
+
+01.4a.	An XYZ Monster has a Rank.
+
+01.4b.	A Link Monster has a LINK rating.
+
+01.4c.	Every other Monster has a level.
+
+01.5.	Monsters have can have any number of abilities but they have at least 1.
+
+01.5a.	The abilities can be found at the top left of the effect box, after the first square bracket. All words in the square brackets are abilities of the monster, the first bracket indicate the Type. (See 01.1b for Type) (Change the name of summon from abilities to something else TODO)
+
+01.5b.	Fusion, Link, Synchro and Xyz monsters reside in the Extra Deck while the rest in the Main Deck.
+
+01.5c.	The abilities are the following: Effect, Flip, Fusion, Gemini, Link, Normal, Pendulum, Ritual, Spirit, Synchro, Toon, Tuner, Union, Xyz.
+
+01.5d.	In the OCG there is an extra ability called Special Summon Monster.
+Ruling163
+
+01.6.	Monsters can attack and be attacked. (battle TODO)
+
+01.7.	Monsters do not get destroyed if their ATK and/or DEF goes to 0.
+
+01.8.	While on the field a monster can be in 3 different positions: face-up attack, face-up defense and face-down defense.
+
+01.8a.	During the Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and the turn player has priority they can change the position of a monster on their field. A Monster if face-up attack position is changed to face-down defense position. 
+
+01.8b.	A Monster if face-up defense position is changed to face-up attack position. A monster in face-down defense position is changed to face-up attack position, this is considered a Flip Summon. (See Flip TODO)
+
+01.8c.	A Monster’s position can be changed only if it was on the field since the start of the current turn, if it hasn’t attacked since the start of the current turn and its position hasn’t been changed since the start of the current turn. (Maybe to be moved somewhere else)
+
+01.8d.	While in face-up attack it’s placed vertically in a monster zone with the front of the card facing up. Only face-up attack position monster can attack. 
+
+01.8e.	While in face-up defense it’s placed horizontally in a monster zone with the front of the card facing up.
+
+01.8f.	While in face-down defense it’s placed horizontally in a monster zone with the front of the card facing down. All the characteristic of the card are known only to the controller of the card.
+
+02. Main Deck Monster (Unofficial term)
+
+02.1.	A Main Deck Monster is a monster that resides in the Main Deck at the start of the duel, they are Monsters with only the following abilities: Effect, Flip, Gemini, Normal, Pendulum, Ritual, Spirit, Toon, Tuner, Union. The OCG Special Summon Monster is included here. If a Monster has an ability not mentioned here it’s an Extra Deck Monster. 
+
+02.2.	The border of the card is Orange/Brown for every Main Deck Monster except for Normal Monsters with a Yellow/Brown border, Ritual Monsters with a Light Blue border and Pendulum Monsters with Green (The same as Spell Cards) on the bottom that fades to another color on the top depending on the other abilities of the card.
+
+02.3.	All Main Deck Monsters have a Level from 1 to 12 and no Rank or LINK Rating. During a duel if the Level changes there is no limit on how high the level can be but cannot go lower than 1 (See Levels TODO)
+
+02.4.	Except for Ritual and Special Summon Monsters the turn player can Normal/Tribute Summoned or Normal/Tribute Set a Main Deck Monster from the hand during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority. (See Normal Summon TODO)
+
+02.5.	Some abilities have an effect in the way the Monster works or interacts with other cards. Here are what each Main Deck Monster ability does.
+
+02.6.	Effect
+
+02.6a.	An Effect Monster is any Monster that has an effect, this includes effect printed on the card and effects that are written because of other abilities, for example Spirit.
+
+02.6b.	A Monster that doesn’t have this ability is a Non-Effect Monster.
+
+02.7.	Flip
+
+02.7a.	A Flip Monster has an effect that activates when from face-down defense position is flipped to face-up attack or face-up defense position.
+
+02.7b.	The effect can activate if was flipped manually by a player, (See 01.8a) flipped as a result of battle (See Battle TODO) or flipped by an effect.
+
+02.8.	Gemini
+
+02.8a.	Gemini Monster are treated as Normal Monsters while they are on the field or in the Graveyard.
+
+02.8b.	While a Gemini Monster is treated as a Normal Monsters it doesn’t have any effect.
+
+02.8c.	While a Gemini Monster treated as a Normal Monster is on the field if that monster’s controller is the turn player during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority they can be Normal Summoned again.
+
+02.8d.	When a Gemini Monster is Normal Summoned a second time while they are treated as a Normal Monster on the field they become an Effect Monsters and gain the effects written on the card.
+
+02.8e.	During the Summon Negation Window of the second Normal Summon of a Gemini Monster the Monster isn’t on the field.
+
+02.8f.	A player can Normal Summon a Gemini Monster a second time during the turn that it was Summoned to the field as long as that player hasn’t used all Normal/Tribute Summons available during that turn.
+
+02.8g.	To Normal Summon a Level 5 or higher Gemini Monster a second time, no Monster is required as Tribute.
+
+02.8h.	A player cannot change the battle position of a Gemini Monster during the turn that it was Normal Summoned a second time, but a Gemini Monster can be Normal Summoned a second time during a turn where its battle position was changed.
+
+02.8i.	This summon follows the normal rules of Normal Summoning. (See Normal Summon TODO)
+
+02.9.	Normal
+
+02.9a.	The Normal ability has no direct effect on gameplay.
+
+02.9b.	A Normal Monster is considered to be a Non-Effect Monster. (See Something TODO)
+
+02.9c.	A Normal Monster’s border is Yellow/Brown.
+
+02.10.	Pendulum
+
+02.10a.	 A Pendulum Monster can be activated as a Spell from the hand by the turn player during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+02.10b.	A Pendulum Monster activated as a Spell can only be placed in the rightmost or leftmost Spell/Trap Card Zone.
+
+02.10c.	Activating a Pendulum Monster as a Spell is the same as activating a Spell that remains on the field after resolution like a Field Spell or a Continuous Spell.
+
+02.10d.	A Pendulum Monster cannot be placed face-down in a Pendulum Zone.
+
+02.10e.	When a Pendulum Monster is activated or places by an effect that specifically places in the Pendulum Zone in a Spell/Trap Card Zone that zone becomes a Pendulum Zone. (Maybe move to zone explanation TODO)
+
+02.10f.	While it’s a Pendulum Zone it’s still a Spell/Trap Card Zone.
+
+02.10g.	While a Spell/Trap Card Zone is treated as a Pendulum Zone in that zone there can only be a Pendulum Monster treated as a Spell.
+
+02.10h.	If a Pendulum Monster treated as a Spell leaves the Pendulum Zone or stops being a Pendulum Spell the zone immediately returns to being a normal Spell/Trap Card Zone.
+
+02.10i.	 If there is a card in the rightmost or leftmost Spell/Trap Card Zone a Pendulum card cannot be activated in that zone and if both Zones are occupied no Pendulum Monster can be placed. This applies if the card in the zone is a Pendulum Monster treated as a Spell and if there is any other card.
+
+02.10j.	If a Pendulum Monster is sent to the Graveyard while it’s on the field it is sent to the Extra Deck face-up instead. This will happen if the Pendulum Monster is in the Pendulum Zone or if it’s in any other Zone on the field.
+
+02.10k.	A Pendulum Monster sent from any other Zone to the Graveyard it will go to the Graveyard normally.
+
+02.10m.	If a Pendulum Monster is sent to the Graveyard while it’s on the field and an effect that changes the destination of a card sent to the Graveyard, that Pendulum Monster will not go to the Extra Deck and instead be sent to that location.
+
+•	Example: Macro Cosmos has the effect “While this card is face-up on the field, any card sent to the GY is banished instead.” While Macro Cosmos is face-up on the field all Pendulum Monsters sent from the field to the Graveyard will be banished and not be sent to the Extra Deck.
+
+02.10n.	If the turn player controls 2 cards in their Pendulum Zones they can perform a Pendulum Summon.
+
+02.11.	Ritual
+
+02.11a.	 A Ritual Monster is a Special Summon Monster and the method to Properly Summon a Ritual Monster is a Ritual Summon.
+
+02.11b.	A Ritual Monster’s border is Light Blue.
+
+02.12.	Spirit
+
+02.12a.	Spirit Monsters all have a shared effect to return themselves to the hand during the End Phase of the turn they were either Normal/Tribute Summoned or flipped face-up, or Special Summoned depending on the card.
+
+02.12b.	Most Spirit Monsters Cannot be Special Summoned and will return to the hand if they were Normal/Tribute Summoned or flipped face-up.
+
+02.12c.	Four cards: “Han-Shi Kyudo Spirit”, “Kai-Den Kendo Spirit”, “Kuro-Obi Karate Spirit” and “Yoko-Zuna Sumo Spirit” Do not have the Restriction against Special Summon, but they will return to the hand in the same way.
+
+02.12d.	Most other Spirit Monsters Cannot be Normal/Tribute Summoned or Normal/Tribute Set and will return to the hand if they were Special Summoned.
+
+02.12e.	One card: “Amaterasu” Cannot be Normal/Tribute Summoned or Special Summoned and will return to the hand if it was flipped face-up.
+
+02.13.	Toon
+
+02.13a.	The Toon has no consistent effect on gameplay, every Toon card behaves differently and is connected only by name and the “Toon” archetype.
+
+02.14.	Tuner
+
+02.14a.	Tuner Monsters are required to perform a Synchro Summon and Summon a Synchro Monster. (See Synchro Summon TODO)
+
+02.15.	Union
+
+02.15a.	 Union Monster have an effect that allows them to equip themselves to a Monster or unequip themselves and Special Summon themselves.
+
+02.15b.	To activate the effect to equip themselves they must be a Monster in the Monster Zone and there must be a legal Monster that they can equip themselves to, the turn player during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority can activate the effect of their Union Monster to equip itself to another Monster.
+
+02.15c.	Some Union Monster have a specific requirement for the Monster they equip themselves to, if so it is written on the card.
+
+02.15d.	This effect changes the type of the card from Monster to an Equip Spell, it is no longer a Monster but is still a Monster Card.
+
+02.15e.	To activate the effect to Special Summon themselves they must be an Equip Spell in the Monster Zone equipped to a Monster in the field, the turn player during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority can activate the effect of the Union Monster equipped to a Monster to Special Summon.
+
+02.15f.	This effect changes the type of the card from Equip Spell to Monster, it is no longer an Equip Spell.
+
+02.15g.	Both of these effects are part of the same effect, and it is Once per turn.
+
+02.15h.	 Some Union Monster have written “(A monster can only be equipped with 1 Union monster at a time. If the equipped monster would be destroyed [“by battle”, “as a result of battle”, “by card effect”], destroy this card instead.)”, this is not an effect.
+
+02.15i.	While you control a Monster equipped with a Union Monster with that text you cannot attempt to equip another Union Monster to it.
+Ruling6281 
+
+02.15j.	While you control a Monster equipped with a Union Monster without that text you can attempt to equip a Union Monster without that text but not a Union Monster with that text.
+Ruling19487
+
+02.16.	Special Summon
+
+02.16a.	A Special Summon Monster cannot be Normal/Tribute Summoned or Normal/Tribute Set. They are Fusion, Link, Ritual, Synchro, Xyz, Tokens and Main Deck Monsters with the text “Cannot be Normal Summoned/Set.”.
+
+02.16b.	Even if not written on the card all Special Summon Monsters cannot be Normal Summoned/Set
+
+02.16c.	The only ways to Special Summon a Special Summon Monster is to use the correct Summoning Procedure depending on the card (Fusion, Link, Ritual, Synchro or Xyz Summon) has or the one written on the card (this is the way to “Properly Special Summon” a Special Summon Monster) or to Special Summon a Special Summon Monster from the Graveyard or Banishment that was previously Properly Special Summoned and sent there. 
+
+02.16d.	If the text of the card contains “Must be Special Summoned by a card effect”  that Monster can be Special Summoned by other effect but cannot be Special Summoned by something that is not an effect like a Pendulum Summon.
+Ruling16780
+
+02.16e.	If the text of the card contains “Must be [Summon Procedure]” and not “Must first be [Summon Procedure]“ that Monster cannot be Special Summoned by other effect even after they are Properly Special Summoned. Some older cards may have written “Must be [Summon Procedure], and cannot be Special Summoned by other ways” or “This card cannot be Special Summoned except by [Summon Procedure]”, these mean the exact same thing.
+
+02.16f.	A Token can only be Special Summoned by the effect that created it, so it cannot be Special Summoned by other effects even if it was Properly Special Summoned.
+JRulebook66 (Not the right link TODO)
+
+•	Example: If a Token is put into the Spell/Trap Card Zone by Sinful Spoils of Subversion - Snake-Eye that says “Target 1 face-up monster on the field; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell.” It cannot be Special Summoned by an effect such as the 3rd effect of Divine Temple of the Snake-Eye “Once per turn, if your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 Monster Card on the field treated as a Continuous Spell; Special Summon it to your field.”. TODO source
+
+02.16g.	Three cards: “Blue Mountain Butterspy”, “Fenrir the Nordic Wolf” and “Jormungardr the Nordic Serpent” are Special Summon Monsters but don’t have any restriction on how they can be summoned.
+
+02.16h.	If a Special Summon Monster that was Properly Summoned is moved to a non-public knowledge location, it will lose its Properly Summoned status. Flipping face-down and banishing face-down do not remove this status.
+
+03. Extra Deck Monster (Unofficial term)
+
+03.1.	An Extra Deck Monster is a Monster that resides in the Extra Deck at the start of the duel, they are Monsters with the following abilities: Fusion, Link, Synchro, Xyz. They can also have other abilities but if they do they are not considered Main Deck Monsters.
+
+03.2.	Extra Deck Monsters cannot be Normal/Tribute Summoned or Normal/Tribute.
+
+03.3.	All Extra Deck Monsters are Special Summon Monsters.
+
+03.4.	If an Extra Deck Monster has only his materials written in the text box it is a Non-Effect Monster.
+
+03.5.	Fusion
+
+03.5a.	Fusion Monsters are Special Summon Monsters and the method to Properly Summon a Fusion Monster is a Fusion Summon.
+
+03.5b.	A Fusion Monster has a Level from 1 to 12 and doesn’t have a Rank or a LINK Rating. During a duel if the Level changes there is no limit on how high the level can be but cannot go lower than 1 (See Levels TODO)
+
+03.5c.	A Fusion Monster’s border is Violet.
+
+03.5d.	A Fusion Pendulum Monster that is face-up in the Extra Deck cannot be Fusion Summoned.
+
+03.6.	Link
+
+03.6a.	Link Monsters are Special Summon Monsters and the method to Properly Summon a Link Monster is a Link Summon.
+
+03.6b.	Link Monsters have a LINK Rating from 1 to 8 and Don’t have a Level or a Rank.
+
+03.6c.	Link Monsters do not have DEF and can only be in face-up attack position while on the field.
+
+03.6d.	Link Monsters can never be in face-up defense position or face-down position.
+
+03.6e.	If an effect would change the position of a Link Monster nothing happens.
+
+03.6f.	A player cannot activate an effect if that effect would change the position of only Link Monsters.
+
+03.6g.	A player cannot target a Link Monster with an effect that would change its position.
+
+03.6h.	A Link Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Link Monsters do not have a Level. Link Monsters can be used as material for a Fusion Summon or a Link Summon.
+
+03.6i.	A Link Monster’s border is Dark Blue with a hexagonal pattern.
+
+03.7.	Synchro
+
+03.7a.	Synchro Monsters are Special Summon Monsters and the method to Properly Summon a Synchro Monster is a Synchro Summon.
+
+03.7b.	A Synchro Monster has a Level from 1 to 12 and doesn’t have a Rank or a LINK Rating. During a duel if the Level changes there is no limit on how high the level can be but cannot go lower than 1 (See Levels TODO)
+
+03.8.	Xyz
+
+03.8a.	Xyz Monsters are Special Summon Monsters and the method to Properly Summon an Xyz Monster is an Xyz Summon.
+
+03.8b.	An Xyz Monster has a Rank from 1 to 13 and doesn’t have a Level or a LINK Rating.
+
+03.8c.	An Xyz Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Xyz Monsters do not have a Level. Xyz Monsters can be used as material for a Fusion Summon or a Link Summon.
+
+n. Summons
+00. General
+
+00.1.	A Summon is the only way to place a Monster in any Zone to a Monster Zone.
+
+00.2.	The different Summons are: Normal/Tribute Summon, Flip Summon, Special Summon, Fusion Summon, Link Summon, Pendulum Summon, Ritual Summon, Synchro Summon and Xyz Summon.
+
+00.3.	All Summon that happen outside of a chain resolving create a Response Window where card or effects can be activated called the Summon Response Window.
+
+00.4.	In addition to the Summon Response Window there is an additional Response Window that happened while the Monster is being Summoned called the Summon Negation Window.
+
+00.4a.	A Summon Negation Window doesn’t occur if the Summon is performed while a Chain is resolving.
+
+00.4b.	An effect that performs a Summon via game mechanics will cause a Summon Negation Window if it was Chain Link 1 in a Chain. A card or effect will perform a Summon via game mechanics if it specifies that the Summon will occur “immediately after this [card/effect] resolves”.
+
+00.4c.	During the Summon Negation Window the Monster being Summoned is not treated as being in any Zone or Location.
+
+00.4d.	A Monster being Summoned cannot activate its effects, its continuous effects do not apply and its substitution effects cannot be applied.
+
+00.4e.	If both player pass priority without activating a card or an effect the Summon Negation ends and the Monster is Summoned, after which the Summon Response Window happens.
+
+00.4f.	The first effect activated during a Summon Negation Window must be an effect that would negate that Summon.
+
+00.4g.	After the first Chain Link all other cards and effects can be activated as long as they are the same Spell Speed or higher.
+
+00.4h.	All cards and effects that negate a Summon are Spell Speed 2 or higher.
+
+00.4i.	A card or effect can negate a Summon if it can be activated when the monster “would be […] Summoned” and if it uses the term negate.
+
+00.4j.	After the Chain resolves if the Summon is not negated the Monster is immediately Summoned and no other card or effect can be activated or applied at that moment.
+
+00.4k.	If the Summon is negated the Monster is sent to the Graveyard if possible and gameplay continues as normal.
+01. Normal/Tribute Summon
+
+01.1.	A Normal/Tribute Summon is the process of Summoning a Monster from the hand, or the Monster Zone in the case of a Gemini Monster in a Monster Zone treated as a Normal Monster, to a Main Monster Zone.
+
+01.2.	A Normal/Tribute Summoned can only be placed in an unoccupied Main Monster Zone and not in an Extra Monster Zone.
+
+01.3.	The turn player can perform a Normal/Tribute Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+01.4.	Each player can only perform 1 Normal/Tribute Summon each turn unless an effect changes that number.
+
+01.4a.	The number of Normal/Tribute Summons is shared with the number of Normal/Tribute Sets.
+
+01.4b.	If a player already Normal/Tribute Summoned or Normal/Tribute Set a number of times equal to the possible amount that they can in that turn, that player can neither Normal/Tribute Summon or Normal/Tribute Set during that turn.
+
+01.4c.	Some effects change the number of Normal/Tribute Summons a player can perform in a turn.
+
+01.4d.	If a card or effect states in its card text “You can conduct [n] Normal Summons/Sets this turn, not just 1”, then that is an effect that changes the number of Normal/Tribute Summons possible in a turn.
+
+01.4e.	A card or effect that changes the number of Normal/Tribute Summons in a turn allows the player to perform a Tribute Summon even if the text doesn’t specify so in the card text.
+
+01.4f.	If multiple cards or effects that change the number of Normal/Tribute Summons in a turn are activated by the same player in the same turn, the number of Normal/Tribute Summons that player can make is equal to the largest of the 2. A player cannot activate multiple cards that would set the number of Normal/Tribute Summons they are allowed to perform to the same number.
+DoubleSummon
+
+01.4g.	If a card or effect that changes the number of Normal/Tribute Summons in a turn is activated after a player has already performed Normal/Tribute Summons during that turn, the Normal/Tribute Summons performed before the effect are counted towards the new value.
+
+•	Example: if a player performs a Normal/Tribute Summon and then activates Double Summon which reads “You can conduct 2 Normal Summons/Sets this turn, not just 1.”, that player cannot conduct 2 more Normal/Tribute Summons but just 1 as they already performed 1.
+
+01.4h.	Some effect make a player gain an extra Normal/Tribute Summon in a turn.
+
+01.4i.	If a card or effect states in its card text “you can [Normal/Tribute] Summon 1 […] monster [in Attack Position] during your Main Phase, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)”, then that is an effect that allows a player to perform an additional Normal/Tribute Summon during that turn.
+
+01.4j.	A card or effect that allows a player to perform an additional Normal/Tribute Summon does not interfere with the number of Normal/Tribute Summons that a player can perform during a turn but just give an extra Normal/Tribute Summon that can be performed at any time.
+
+01.4k.	A player using a card or effect that allows a player to perform an additional Normal/tribute Summon in a turn can decide whether to use a standard Normal/Tribute Summon or the additional Normal/Summon. They function both in the same way.
+
+01.4m.	If multiple effect would make a player gain an additional Normal/Tribute Summon that player gain only 1 additional Normal/Tribute Summon.
+
+01.4n.	A Normal/Tribute Summoned gained by an effect that give an additional Normal/Tribute Summon cannot be used to perform a Normal/Tribute Set but only to perform a Normal/Tribute Summon.
+
+01.4p.	If a card or effect that allows player to perform an additional Normal/Tribute Summon states in its text that it performs a “Normal Summon”, a player activating that card or effect would be able to perform an extra Normal Summon or a Tribute Summon.
+
+01.4q.	If a card or effect that allows player to perform an additional Normal/Tribute Summon states in its text that it performs a “Tribute Summon”, a player activating that card or effect would only be able to perform an extra Tribute Summon and not a Normal Summon.
+
+01.4r.	Some effect allows a player to perform a Normal/Tribute Summon immediately following a Chain Link resolving.
+
+01.4s.	If a card of effect states in its text “immediately after this effect resolves, you can [Normal/Tribute] Summon 1 […] monster.”, then that is an effect that makes a player perform an additional Normal/Tribute Summon immediately after that effect resolves. 
+
+01.4t.	A player may Normal/Tribute Summon any number of times with cards or effects that perform a Normal/Tribute Summon immediately after that card or effect resolves during both players turns.
+
+01.4u.	Normal/Tribute Summons made by cards and effects that perform a Normal/Tribute Summon immediately after that card or effect resolves do not count toward the number of Normal/Tribute Summons that that player can perform in a turn or the additional Normal/Tribute Summon gained by card or effects that allow the player to perform an additional Normal/Tribute Summon.
+
+01.4v.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves is activated as Chain Link 1 resolves the Normal/Tribute Summon performed will create a Summon Negation Window and a Summon Response Window. (See Summon Negation Window Summons00.4)
+
+01.4w.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves is activated as Chain Link 2 resolves the Normal/Tribute Summon performed will not create a Summon Negation Window or a Summon Response Window.
+
+01.4x.	A player made to Normal/Tribute Summon a Monster by a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves cannot perform a Normal/Tribute Set but can only perform a Normal/Tribute Summon.
+
+01.4y.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves states in its text that it performs a “Normal Summon”, a player activating that card or effect can either perform a Normal Summon or a Tribute Summon.
+
+01.4z.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves states in its text that it performs a “Tribute Summon”, a player activating that card or effect must perform a Tribute Summon and not a Normal Summon.
+
+01.5.	A player cannot attempt to perform a Normal/Tribute Summon if they cannot finish performing it the moment they initiate it.
+
+01.6.	A player can perform a Normal/Tribute Summon only if they have not used all available Normal/Tribute Summons they’re allowed during that turn.
+
+01.7.	A player can perform a Normal/Tribute Summon only during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+01.8.	Monsters cannot be Normal Summoned to an Extra Monster Zone even if all Main Monsters are occupied or unusable.
+
+01.9.	A player performing a Tribute Summon can place the Monster being Tribute Summoned in the same Main Monster Zone as a monster tribute for that Summon.
+
+01.10.	If all Main Monster Zones of a player are occupied or unusable that player cannot perform a Normal Summon
+
+01.11.	If all Main Monster Zones of a player are occupied or unusable that player can perform a Tribute Summon as long as they Tribute a Monster in their Main Monster Zone to do so.
+
+01.12.	A Normal Summon is also considered a Tribute Summon if a Monster was tributed to perform it.
+
+01.13.	While performing a Tribute Summon, tributing and Summoning the Monster happen sequentially one after the other, not simultaneously.
+
+01.11.	To perform a Normal Summon of a Level 4 or lower Monster the player performing it places that Monster in face-up attack position from their hand to an unoccupied and usable Main Monster on their field. This is not considered a Tribute Summon.
+
+01.12.	To perform a Normal Summon of a Level 5 or 6 Monster the player performing it Tributes 1 Monster they control, then they place the Monster being Normal Summoned in face-up attack position. This is considered a Tribute Summon.
+
+01.13.	To perform a Normal Summon of a Level 7 or higher Monster the player performing it Tributes 2 Monster they control, then they place the Monster being Normal Summoned in face-up attack position, this is considered a Tribute Summon.
+
+01.14.	Some cards, effects or Summoning conditions change the number if tributes required to Normal/Tribute Summon a Monster. To perform a Normal Summon of a Monster that has the number of Tributes the player performing it Tributes the number of monster required from Monsters they control, then they place the Monster being Normal Summoned in face-up attack position. This is considered a Tribute Summon.
+
+01.15.	If a Level 5 or higher is Normal Summoned without tributing any Monsters due to a card, effect or a Summoning condition, no Monster is tribute and that Monster is Normal Summoned. This is not considered a Tribute Summon.
+
+02. Flip Summon
+
+02.1.	A Flip Summon is the process of Flipping a Monster in a Monster Zone from face-down defense position to face-up attack position.
+
+02.2.	While Flip Summoning a Monster, the player performing the Flip Summon cannot change the Zone the Monster is positioned in.
+
+02.3.	Flip Summons count as manually changing the position of a Monster, so a player cannot change the position of a Monster the turn it was Flip Summoned and they cannot Flip Summon a Monster the turn its battle position 
+
+02.4.	The same Monster cannot be Flip Summoned more than once in a turn.
+
+02.5.	A Monster cannot be Flip Summoned during a turn in which it was Summoned or Normal/Tribute Set, it declared an attack or his position was manually changed.
+
+02.6.	A player can perform Flip Summon only during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+02.7.	During the Summon Negation Window of a Flip Summon the Monster being Flip Summoned is not considered to be on the field.
+
+03. Special Summon
+
+03.1.	A Special Summon is any Summon that is not a Normal/Tribute Summon or a Flip Summon, namely: Fusion Summon, Link Summon, Pendulum Summon, Ritual Summon, Synchro Summon, Xyz Summon, Summons of Special Summon Monsters and Summons from card effects that state “Special Summon”.
+
+03.2.	Don’t know what else to add for now, maybe remove.
+
+04. Fusion Summon
+
+04.1.	A Fusion Summon is the process of Summoning a Fusion Monster from the Extra Deck to a Monster Zone by a card or effect that performs a “Fusion Summon”.
+
+04.2.	A Fusion Summon can only be performed by a card effect.
+
+04.3.	When resolving an effect to Fusion Summon the player performing the Summon choses a Fusion Monster that can be Summoned at that time to be Fusion Summoned, after that, the Fusion Material mentioned on that Fusion Monster are sent from the location(s) stated in that Fusion Monster’s effect to the location(s) stated on that Fusion Monster. Then the Fusion Monster is Fusion Summoned to any unoccupied and usable Monster Zone.
+
+•	Example: a player activates Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” and they have Monster Egg in their hand, Hinotama Soul on their Monster Zone and another Hinotama Soul in their Deck. When Polymerization resolves that player choses to Fusion Summon Charubin the Fire Knight that has the materials “"Monster Egg" + "Hinotama Soul"”, they must sent the Monster Egg that is in their hand and the Hinotama Soul that is on their Monster Zone to their Graveyard. They cannot Send the Monster Egg in their hand and the Hinotama Soul in their Deck to the Graveyard to perform the Fusion Summon. After the Fusion Materials are sent to the Graveyard The Fusion Monster is Special Summon to a Monster Zone.
+
+04.4.	A Fusion Summon can Summon a Monster to any unoccupied and usable Main Monster Zone and any unoccupied and usable Extra Monster Zone.
+
+04.5.	If all Monster Zones of a player are occupied or unusable that player cannot activate an effect to perform a Fusion Summon unless that Fusion Summon can use Monsters on the field as Fusion Materials and that player has a Fusion Monster in their Extra Deck that can be Fusion Summoned using that effect by using as Fusion Material at least 1 Monster in their Monster Zone.
+
+•	Example: a player controls 5 Sheep Tokens in their Main Monster Zones, a Flame Swordsman in the Extra Monster Zone and they have Celtic Guardian and Elemental HERO Clayman in their hand. That player can activate Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” To Fusion Summon a Garura, Wings of Resonant Life with the materials “2 monsters with the same Type and Attribute, but different names” using the Flame Swordsman in their Monster Zone and either the Celtic Guardian or the Elemental HERO Clayman in their hand. That player cannot activate Invocation with the effect "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as material” even if they have the correct materials in hand.
+
+04.6.	If a card or effect prevents a Fusion Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Fusion Monster to be Summoned that player cannot activate a card or effect that performs a Fusion Summon (Example TODO maybe)
+
+04.7.	A Fusion Pendulum Monster that is face-up in the Extra Deck cannot be Fusion Summoned.
+
+04.8.	If a card or effect that performs a Fusion Summon states in its card text that it can Fusion Summon a Fusion Monster that mentions a specific card(s), to Fusion Summon using that card or effect that specific card(s) must be used as Fusion Material.
+
+•	Example: the card Ultimate Fusion has the effect: “Fusion Summon 1 Fusion Monster from your Extra Deck that mentions "Blue-Eyes White Dragon" or "Blue-Eyes Ultimate Dragon" as material”. To Fusion Summon Dragon Master Magia with the materials “"Blue-Eyes Ultimate Dragon" or 3 "Blue-Eyes" monsters + 1 "Chaos" or "Black Luster Soldier" Ritual Monster” using Ultimate Fusion a player must use Blue-Eyes Ultimate Dragon as Fusion Material and not 3 “Blue-Eyes” Monster.
+
+04.9.	If when resolving an effect that performs a Fusion Summon no Fusion Monster is able to be Fusion Summoned no Fusion Materials are moved and no Monster is Summoned. If this happens the Fusion Summon did not happen.
