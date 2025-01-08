@@ -1,3 +1,4 @@
+
 Rules
 Perfect Rulebook 2015
 Perfect Rulebook 2017
@@ -189,7 +190,7 @@ Ruling163
 
 02.12b.	Most Spirit Monsters Cannot be Special Summoned and will return to the hand if they were Normal/Tribute Summoned or flipped face-up.
 
-02.12c.	Four cards: “Han-Shi Kyudo Spirit”, “Kai-Den Kendo Spirit”, “Kuro-Obi Karate Spirit” and “Yoko-Zuna Sumo Spirit” Do not have the Restriction against Special Summon, but they will return to the hand in the same way.
+02.12c.	Four cards (“Han-Shi Kyudo Spirit”, “Kai-Den Kendo Spirit”, “Kuro-Obi Karate Spirit” and “Yoko-Zuna Sumo Spirit”) Do not have the Restriction against Special Summon, but they will return to the hand in the same way.
 
 02.12d.	Most other Spirit Monsters Cannot be Normal/Tribute Summoned or Normal/Tribute Set and will return to the hand if they were Special Summoned.
 
@@ -245,7 +246,7 @@ JRulebook66 (Not the right link TODO)
 
 •	Example: If a Token is put into the Spell/Trap Card Zone by Sinful Spoils of Subversion - Snake-Eye that says “Target 1 face-up monster on the field; place it face-up in its owner's Spell & Trap Zone as a Continuous Spell.” It cannot be Special Summoned by an effect such as the 3rd effect of Divine Temple of the Snake-Eye “Once per turn, if your opponent Normal or Special Summons a monster(s) (except during the Damage Step): You can target 1 Monster Card on the field treated as a Continuous Spell; Special Summon it to your field.”. TODO source
 
-02.16g.	Three cards: “Blue Mountain Butterspy”, “Fenrir the Nordic Wolf” and “Jormungardr the Nordic Serpent” are Special Summon Monsters but don’t have any restriction on how they can be summoned.
+02.16g.	Three cards (“Blue Mountain Butterspy”, “Fenrir the Nordic Wolf” and “Jormungardr the Nordic Serpent”) are Special Summon Monsters but don’t have any restriction on how they can be summoned.
 
 02.16h.	If a Special Summon Monster that was Properly Summoned is moved to a non-public knowledge location, it will lose its Properly Summoned status. Flipping face-down and banishing face-down do not remove this status.
 
@@ -396,7 +397,7 @@ DoubleSummon
 
 01.7j.	A card or effect that allows a player to perform an additional Normal/Tribute Summon does not interfere with the number of Normal/Tribute Summons that a player can perform during a turn but just give an extra Normal/Tribute Summon that can be performed at any time.
 
-01.7k.	A player using a card or effect that allows a player to perform an additional Normal/tribute Summon in a turn can decide whether to use a standard Normal/Tribute Summon or the additional Normal/Summon. They function both in the same way.
+01.7k.	A player using a card or effect that allows a player to perform an additional Normal/Tribute Summon in a turn can decide whether to use a standard Normal/Tribute Summon or the additional Normal/Tribute Summon. They function both in the same way.
 
 01.7m.	If multiple effect would make a player gain an additional Normal/Tribute Summon that player gain only 1 additional Normal/Tribute Summon.
 
@@ -480,38 +481,83 @@ DoubleSummon
 
 04.4.	A Fusion Summon can Summon a Monster to any unoccupied and usable Main Monster Zone and any unoccupied and usable Extra Monster Zone.
 
-04.5.	If all Monster Zones of a player are occupied or unusable that player cannot activate an effect to perform a Fusion Summon unless that Fusion Summon can use Monsters on the field as Fusion Materials and that player has a Fusion Monster in their Extra Deck that can be Fusion Summoned using that effect by using as Fusion Material at least 1 Monster in their Monster Zone.
+04.5.	If during the resolution of a card or effect that performs a Fusion Summon the Fusion Material never do not change location, the Fusion Monster will not be Summoned, . If this happens the Fusion Summon did not happen.
+
+04.6.	If during the resolution of a card or effect that performs a Fusion Summon the Fusion Material get sent to the wrong location due to a card or effect the Fusion Monster is still Summoned.
+
+04.7.	If all Monster Zones of a player are occupied or unusable that player cannot activate an effect to perform a Fusion Summon unless that Fusion Summon can use Monsters on the field as Fusion Materials and that player has a Fusion Monster in their Extra Deck that can be Fusion Summoned using that effect by using as Fusion Material at least 1 Monster in their Monster Zone.
 
 •	Example: a player controls 5 Sheep Tokens in their Main Monster Zones, a Flame Swordsman in the Extra Monster Zone and they have Celtic Guardian and Elemental HERO Clayman in their hand. That player can activate Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” To Fusion Summon a Garura, Wings of Resonant Life with the materials “2 monsters with the same Type and Attribute, but different names” using the Flame Swordsman in their Monster Zone and either the Celtic Guardian or the Elemental HERO Clayman in their hand. That player cannot activate Invocation with the effect "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as material” even if they have the correct materials in hand.
 
-04.6.	If a card or effect prevents a Fusion Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Fusion Monster to be Summoned that player cannot activate a card or effect that performs a Fusion Summon to Fusion Summon that Fusion Monster by using those Monster on the field as Fusion Material. (Example TODO maybe)
+04.8.	If a card or effect prevents a Fusion Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Fusion Monster to be Summoned that player cannot activate a card or effect that performs a Fusion Summon to Fusion Summon that Fusion Monster by using those Monster on the field as Fusion Material. (Example TODO maybe)
 
-04.7.	A Fusion Pendulum Monster that is face-up in the Extra Deck cannot be Fusion Summoned.
+04.9.	A Fusion Pendulum Monster that is face-up in the Extra Deck cannot be Fusion Summoned.
 
-04.8.	If a card or effect that performs a Fusion Summon states in its card text that it can Fusion Summon a Fusion Monster that mentions a specific card(s), to Fusion Summon using that card or effect that specific card(s) must be used as Fusion Material.
+04.10.	If a card or effect that performs a Fusion Summon states in its card text that it can Fusion Summon a Fusion Monster that mentions a specific card(s), to Fusion Summon using that card or effect that specific card(s) must be used as Fusion Material.
 
 •	Example: the card Ultimate Fusion has the effect: “Fusion Summon 1 Fusion Monster from your Extra Deck that mentions "Blue-Eyes White Dragon" or "Blue-Eyes Ultimate Dragon" as material”. To Fusion Summon Dragon Master Magia with the materials “"Blue-Eyes Ultimate Dragon" or 3 "Blue-Eyes" monsters + 1 "Chaos" or "Black Luster Soldier" Ritual Monster” using Ultimate Fusion a player must use Blue-Eyes Ultimate Dragon as Fusion Material and not 3 “Blue-Eyes” Monster.
 
-04.9.	If when resolving an effect that performs a Fusion Summon no Fusion Monster is able to be Fusion Summoned no Fusion Materials are moved and no Monster is Summoned. If this happens the Fusion Summon did not happen.
+04.11.	If when resolving an effect that performs a Fusion Summon no Fusion Monster is able to be Fusion Summoned no Fusion Materials are moved and no Monster is Summoned. If this happens the Fusion Summon did not happen.
 
-04.10.	If a player is required by a card or effect to perform a Fusion Summon and they have 1 or more valid Fusion Monster to Fusion Summon with that card or effect, they must Fusion Summon 1 of those Monsters.
+04.12.	If a player is required by a card or effect to perform a Fusion Summon and they have 1 or more valid Fusion Monster to Fusion Summon with that card or effect, they must Fusion Summon 1 of those Monsters.
 
-04.11.	All Monsters can be used as Fusion Material including but not limited to: Link Monsters, Pendulum Monsters, Xyz Monsters and Token Monsters.
+04.13.	All Monsters can be used as Fusion Material including but not limited to: Link Monsters, Pendulum Monsters, Xyz Monsters and Token Monsters.
 
-04.12.	Face-down defense position Monsters can be used as Material for a Fusion Summon but only if they are controlled by the player performing the Fusion Summon.
+04.14.	Face-down defense position Monsters can be used as Material for a Fusion Summon but only if they are controlled by the player performing the Fusion Summon.
 
 05. Link Summon
 
-01.7a.	A Link Summon is the process of Summoning a Link Monster from the Extra Deck to a Monster Zone.
+05.1.	A Link Summon is the process of Summoning a Link Monster from the Extra Deck to a Monster Zone by sending the Link materials to the Graveyard.
 
-01.7b.	A Link Monster that is Link Summoned can only be placed in an Extra Monster Zone or to a Monster Zone you control that a Link Monster points to.
+05.2.	A Link Monster that is Link Summoned can only be placed in an Extra Monster Zone or to a Monster Zone you control that a Link Monster points to.
 
-01.7c.	A player can Link Summon a Link Monster to a Zone they control that is pointed to by a Link Monster controlled by their opponent.
+05.3.	A player can Link Summon a Link Monster to a Zone they control that is pointed to by a Link Monster controlled by their opponent.
 
-01.7d.	The turn player can perform a Link Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+05.4.	The turn player can perform a Link Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
 
-01.7e.	To perform a Link Summon the player performing the Link Summon chooses a valid Link Monster in their Extra Deck to Link Summon, after that they send a number of Monsters from their field to the Graveyard depending on the Materials of the Link Monster being Summoned and its LINK Rating. Then the Link Monster is placed in any valid Monster Zone.
+05.5.	To perform a Link Summon the player performing the Link Summon chooses a valid Link Monster in their Extra Deck to Link Summon, after that they send a number of Monsters from their field to the Graveyard depending on the Materials of the Link Monster being Summoned and its LINK Rating. Then the Link Monster is placed in any valid Monster Zone.
 
-01.7f.	The amount of Monsters used as Material for a Link Summon must be equal to the LINK Rating of the Monster being Link Summoned. A Link Monster used as Material for a Link Summon counts as either 1 monster or an amount exactly equal to its LINK Rating, the player performing the Link Summon can choose which of the 2 is applied.
+05.6.	The amount of Monsters used as Material for a Link Summon must be equal to the LINK Rating of the Monster being Link Summoned. A Link Monster used as Material for a Link Summon counts as either 1 monster or an amount exactly equal to its LINK Rating, the player performing the Link Summon can choose which of the 2 is applied.
 
-01.7g.	A player can Link Summon to an Extra Monster Zone while they already control a Monster in the other Extra Monster Zone if doing so would create an Extra-Link (See Extra-Link AHHHH)
+05.7.	If the Materials of a Link Summons are not sent to the Graveyard because of a card or effect but instead get sent to another location the Link Monster is still Summoned.
+
+05.8.	A player can Link Summon to an Extra Monster Zone while they already control a Monster in the other Extra Monster Zone if doing so would create an Extra-Link. (See Extra-Link AHHHH)
+
+06. Pendulum Summon
+
+05.1.	A Pendulum Summon is the process of Special Summoning any number of Monsters from a player hand or face-up Extra-Deck to the Monster Zones depending on the Pendulum Monsters placed in the Pendulum Zones.
+
+05.2.	A player can only perform 1 Pendulum Summon per turn.
+
+05.2a.	Four cards (“Moissa Knight, the Comet General”, “Zefraath”, “Extra Pendulum” and “Soul Pendulum”), allow a player to perform an additional Pendulum Summon during a turn.
+
+05.2b.	If a card states in its text “you can conduct 1 Pendulum Summon of a […] monster(s) during your Main Phase this turn, in addition to your Pendulum Summon. (You can only gain this effect once per turn.)”, then its an effect that allows a player to perform an additional Pendulum Summon.
+
+05.2c.	A player using a card or effect that allows a player to perform an additional Pendulum Summon in a turn can decide whether to use a standard Pendulum Summon or the additional Pendulum Summon. They function both in the same way.
+
+05.2d.	If multiple effect would make a player gain an additional Pendulum Summon that player gain only 1 additional Pendulum Summon.
+
+05.3.	A player can only conduct a Pendulum Summon if both of they have a Pendulum Monster in both Pendulum Zones.
+
+05.4.	The turn player can perform a Pendulum Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+05.5.	To perform a Pendulum Summon the player performing the Pendulum Summon chooses any number of Monster in their hand and face-up Extra Deck and places them on their field.
+
+05.6.	Only Monsters with a Level can be Pendulum Summoned. Monsters without a Level such as Link Monsters and Xyz Monster cannot be Pendulum Summoned.
+
+05.7.	The Level of the Monster being Summoned in a Pendulum Summon must be between the value of the scales of the 2 Pendulum Monsters in the Pendulum Zones of the player performing the Pendulum Summon, A Monster that has a Level that is equal to the value of a scale cannot be Pendulum Summoned.
+
+05.8.	A Monster being Pendulum Summoned from the hand can only be placed in a Main Monster Zone.
+
+05.9.	A Pendulum Monster being Pendulum Summoned from the face-up Extra Deck can only be placed in an Extra Monster Zone or a Zone a Link Monster point to.
+
+05.10.	A player cannot Pendulum Summon a Monster from their face-up Extra Deck to an Extra Monster Zone if they already control a Monster in the other Extra Monster Zone.
+
+05.11.	Pendulum Extra Deck Monster in Extra Deck face-up cannot be Pendulum Summoned if they were not Properly Special Summoned.
+
+05.12.	If a Pendulum Summon is negated the Summon of all Monsters being Pendulum Summoned Is negated.
+
+05.13.	All the Monster Summoned during a Pendulum Summone are Summoned simultaneously.
+
+07. Synchro Summon
+
