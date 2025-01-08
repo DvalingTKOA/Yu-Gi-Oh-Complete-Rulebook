@@ -135,7 +135,9 @@ Ruling163
 
 02.8h.	A player cannot change the battle position of a Gemini Monster during the turn that it was Normal Summoned a second time, but a Gemini Monster can be Normal Summoned a second time during a turn where its battle position was changed.
 
-02.8i.	This summon follows the normal rules of Normal Summoning. (See Normal Summon TODO)
+02.8i.	If the effects of a Gemini Monster that gained its effects are negated, the Gemini Monster is still treated as being an Effect Monster and cannot be Normal Summoned again to gain the effects.
+
+02.8j.	This summon follows the normal rules of Normal Summoning. (See Normal Summon TODO)
 
 02.9.	Normal
 
@@ -275,17 +277,37 @@ JRulebook66 (Not the right link TODO)
 
 03.6c.	Link Monsters do not have DEF and can only be in face-up attack position while on the field.
 
-03.6d.	Link Monsters can never be in face-up defense position or face-down position.
+03.6d.	A Link Monster has a number of arrow on the border of its art equal to its LINK Rating.
 
-03.6e.	If an effect would change the position of a Link Monster nothing happens.
+03.6e.	The possible Link Monster’s arrows direction are: UP, UP/RIGHT, RIGHT, DOWN/RIGHT, DOWN, DOWN/LEFT, LEFT, UP/LEFT.
 
-03.6f.	A player cannot activate an effect if that effect would change the position of only Link Monsters.
+03.6f.	A Link Monster’s Arrow points to a Zone that is adjacent in the direction of the arrow.
 
-03.6g.	A player cannot target a Link Monster with an effect that would change its position.
+03.6g.	A Link Monster’s Arrows can only point to Monster Zones, they cannot point to Spell/Trap card Zones, the Field Spell Zone, the Graveyard, the Banishment, the Main Deck or the Extra Deck.
 
-03.6h.	A Link Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Link Monsters do not have a Level. Link Monsters can be used as material for a Fusion Summon or a Link Summon.
+03.6h.	A Link Monster’s Arrows can point to opponent’s Zones and Monsters.
 
-03.6i.	A Link Monster’s border is Dark Blue with a hexagonal pattern.
+03.6i.	A Link Monster in the Main Monster Zones can point to the Extra Monster Zone with Arrows pointing UP/LEFT, UP and/or UP/RIGHT, but it cannot point to any opponent’s Main Monster Zone.
+
+03.6j.	A Link Monster in the Extra Monster Zone can point to its owner’s Main Monster Zones with Arrows pointing DOWN/LEFT, DOWN and/or DOWN/RIGHT and it can point to its owner’s opponent’s Main Monster Zones with Arrows pointing UP/LEFT, UP and/or UP/RIGHT, but it cannot point to the other Extra Monster Zone.
+ 
+03.6k.	A Monster is Linked if it’s a Link Monster and one of its Arrows points to another Monster on the field.
+
+03.6m.	A Monster is Linked if a Link Monster’s Arrow points to it.
+
+03.6n.	2 Monsters are Co-Linked if both of them are Link Monsters and they both point to each other.
+
+03.6p.	Link Monsters can never be in face-up defense position or face-down position.
+
+03.6q.	If an effect would change the position of a Link Monster nothing happens.
+
+03.6r.	A player cannot activate an effect if that effect would change the position of only Link Monsters.
+
+03.6s.	A player cannot target a Link Monster with an effect that would change its position.
+
+03.6t.	A Link Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Link Monsters do not have a Level. Link Monsters can be used as material for a Fusion Summon or a Link Summon.
+
+03.6u.	A Link Monster’s border is Dark Blue with a hexagonal pattern.
 
 03.7.	Synchro
 
@@ -337,90 +359,92 @@ n. Summons
 
 01.1.	A Normal/Tribute Summon is the process of Summoning a Monster from the hand, or the Monster Zone in the case of a Gemini Monster in a Monster Zone treated as a Normal Monster, to a Main Monster Zone.
 
-01.2.	A Normal/Tribute Summoned can only be placed in an unoccupied Main Monster Zone and not in an Extra Monster Zone.
+01.2.	A Monster that is Normal/Tribute Summoned can only be placed in an unoccupied Main Monster Zone and not in an Extra Monster Zone.
 
 01.3.	The turn player can perform a Normal/Tribute Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
 
-01.4.	Each player can only perform 1 Normal/Tribute Summon each turn unless an effect changes that number.
+01.4.	To perform a Normal Summon of a Level 4 or lower Monster the player performing it places that Monster in face-up attack position from their hand to an unoccupied and usable Main Monster on their field. This is not considered a Tribute Summon.
 
-01.4a.	The number of Normal/Tribute Summons is shared with the number of Normal/Tribute Sets.
+01.5.	To perform a Normal Summon of a Level 5 or 6 Monster the player performing it Tributes 1 Monster they control, then they place the Monster being Normal Summoned in face-up attack position. This is considered a Tribute Summon.
 
-01.4b.	If a player already Normal/Tribute Summoned or Normal/Tribute Set a number of times equal to the possible amount that they can in that turn, that player can neither Normal/Tribute Summon or Normal/Tribute Set during that turn.
+01.6.	To perform a Normal Summon of a Level 7 or higher Monster the player performing it Tributes 2 Monster they control, then they place the Monster being Normal Summoned in face-up attack position, this is considered a Tribute Summon.
 
-01.4c.	Some effects change the number of Normal/Tribute Summons a player can perform in a turn.
+01.7.	While performing a Tribute Summon, tributing and Summoning the Monster happen sequentially one after the other, not simultaneously.
 
-01.4d.	If a card or effect states in its card text “You can conduct [n] Normal Summons/Sets this turn, not just 1”, then that is an effect that changes the number of Normal/Tribute Summons possible in a turn.
+01.8.	Each player can only perform 1 Normal/Tribute Summon each turn unless an effect changes that number.
 
-01.4e.	A card or effect that changes the number of Normal/Tribute Summons in a turn allows the player to perform a Tribute Summon even if the text doesn’t specify so in the card text.
+01.7a.	The number of Normal/Tribute Summons is shared with the number of Normal/Tribute Sets.
 
-01.4f.	If multiple cards or effects that change the number of Normal/Tribute Summons in a turn are activated by the same player in the same turn, the number of Normal/Tribute Summons that player can make is equal to the largest of the 2. A player cannot activate multiple cards that would set the number of Normal/Tribute Summons they are allowed to perform to the same number.
+01.7b.	If a player already Normal/Tribute Summoned or Normal/Tribute Set a number of times equal to the possible amount that they can in that turn, that player can neither Normal/Tribute Summon or Normal/Tribute Set during that turn.
+
+01.7c.	Some effects change the number of Normal/Tribute Summons a player can perform in a turn.
+
+01.7d.	If a card or effect states in its card text “You can conduct [n] Normal Summons/Sets this turn, not just 1”, then that is an effect that changes the number of Normal/Tribute Summons possible in a turn.
+
+01.7e.	A card or effect that changes the number of Normal/Tribute Summons in a turn allows the player to perform a Tribute Summon even if the text doesn’t specify so in the card text.
+
+01.7f.	If multiple cards or effects that change the number of Normal/Tribute Summons in a turn are activated by the same player in the same turn, the number of Normal/Tribute Summons that player can make is equal to the largest of the 2. A player cannot activate multiple cards that would set the number of Normal/Tribute Summons they are allowed to perform to the same number.
 DoubleSummon
 
-01.4g.	If a card or effect that changes the number of Normal/Tribute Summons in a turn is activated after a player has already performed Normal/Tribute Summons during that turn, the Normal/Tribute Summons performed before the effect are counted towards the new value.
+01.7g.	If a card or effect that changes the number of Normal/Tribute Summons in a turn is activated after a player has already performed Normal/Tribute Summons during that turn, the Normal/Tribute Summons performed before the effect are counted towards the new value.
 
 •	Example: if a player performs a Normal/Tribute Summon and then activates Double Summon which reads “You can conduct 2 Normal Summons/Sets this turn, not just 1.”, that player cannot conduct 2 more Normal/Tribute Summons but just 1 as they already performed 1.
 
-01.4h.	Some effect make a player gain an extra Normal/Tribute Summon in a turn.
+01.7h.	Some effect make a player gain an extra Normal/Tribute Summon in a turn.
 
-01.4i.	If a card or effect states in its card text “you can [Normal/Tribute] Summon 1 […] monster [in Attack Position] during your Main Phase, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)”, then that is an effect that allows a player to perform an additional Normal/Tribute Summon during that turn.
+01.7i.	If a card or effect states in its card text “you can [Normal/Tribute] Summon 1 […] monster [in Attack Position] during your Main Phase, in addition to your Normal Summon/Set. (You can only gain this effect once per turn.)”, then that is an effect that allows a player to perform an additional Normal/Tribute Summon during that turn.
 
-01.4j.	A card or effect that allows a player to perform an additional Normal/Tribute Summon does not interfere with the number of Normal/Tribute Summons that a player can perform during a turn but just give an extra Normal/Tribute Summon that can be performed at any time.
+01.7j.	A card or effect that allows a player to perform an additional Normal/Tribute Summon does not interfere with the number of Normal/Tribute Summons that a player can perform during a turn but just give an extra Normal/Tribute Summon that can be performed at any time.
 
-01.4k.	A player using a card or effect that allows a player to perform an additional Normal/tribute Summon in a turn can decide whether to use a standard Normal/Tribute Summon or the additional Normal/Summon. They function both in the same way.
+01.7k.	A player using a card or effect that allows a player to perform an additional Normal/tribute Summon in a turn can decide whether to use a standard Normal/Tribute Summon or the additional Normal/Summon. They function both in the same way.
 
-01.4m.	If multiple effect would make a player gain an additional Normal/Tribute Summon that player gain only 1 additional Normal/Tribute Summon.
+01.7m.	If multiple effect would make a player gain an additional Normal/Tribute Summon that player gain only 1 additional Normal/Tribute Summon.
 
-01.4n.	A Normal/Tribute Summoned gained by an effect that give an additional Normal/Tribute Summon cannot be used to perform a Normal/Tribute Set but only to perform a Normal/Tribute Summon.
+01.7n.	A Normal/Tribute Summoned gained by an effect that give an additional Normal/Tribute Summon cannot be used to perform a Normal/Tribute Set but only to perform a Normal/Tribute Summon.
 
-01.4p.	If a card or effect that allows player to perform an additional Normal/Tribute Summon states in its text that it performs a “Normal Summon”, a player activating that card or effect would be able to perform an extra Normal Summon or a Tribute Summon.
+01.7p.	If a card or effect that allows player to perform an additional Normal/Tribute Summon states in its text that it performs a “Normal Summon”, a player activating that card or effect would be able to perform an extra Normal Summon or a Tribute Summon.
 
-01.4q.	If a card or effect that allows player to perform an additional Normal/Tribute Summon states in its text that it performs a “Tribute Summon”, a player activating that card or effect would only be able to perform an extra Tribute Summon and not a Normal Summon.
+01.7q.	If a card or effect that allows player to perform an additional Normal/Tribute Summon states in its text that it performs a “Tribute Summon”, a player activating that card or effect would only be able to perform an extra Tribute Summon and not a Normal Summon.
 
-01.4r.	Some effect allows a player to perform a Normal/Tribute Summon immediately following a Chain Link resolving.
+01.7r.	Some effect allows a player to perform a Normal/Tribute Summon immediately following a Chain Link resolving.
 
-01.4s.	If a card of effect states in its text “immediately after this effect resolves, you can [Normal/Tribute] Summon 1 […] monster.”, then that is an effect that makes a player perform an additional Normal/Tribute Summon immediately after that effect resolves. 
+01.7s.	If a card of effect states in its text “immediately after this effect resolves, you can [Normal/Tribute] Summon 1 […] monster.”, then that is an effect that makes a player perform an additional Normal/Tribute Summon immediately after that effect resolves. 
 
-01.4t.	A player may Normal/Tribute Summon any number of times with cards or effects that perform a Normal/Tribute Summon immediately after that card or effect resolves during both players turns.
+01.7t.	A player may Normal/Tribute Summon any number of times with cards or effects that perform a Normal/Tribute Summon immediately after that card or effect resolves during both players turns.
 
-01.4u.	Normal/Tribute Summons made by cards and effects that perform a Normal/Tribute Summon immediately after that card or effect resolves do not count toward the number of Normal/Tribute Summons that that player can perform in a turn or the additional Normal/Tribute Summon gained by card or effects that allow the player to perform an additional Normal/Tribute Summon.
+01.7u.	Normal/Tribute Summons made by cards and effects that perform a Normal/Tribute Summon immediately after that card or effect resolves do not count toward the number of Normal/Tribute Summons that that player can perform in a turn or the additional Normal/Tribute Summon gained by card or effects that allow the player to perform an additional Normal/Tribute Summon.
 
-01.4v.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves is activated as Chain Link 1 resolves the Normal/Tribute Summon performed will create a Summon Negation Window and a Summon Response Window. (See Summon Negation Window Summons00.4)
+01.7v.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves is activated as Chain Link 1 resolves the Normal/Tribute Summon performed will create a Summon Negation Window and a Summon Response Window. (See Summon Negation Window Summons00.4)
 
-01.4w.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves is activated as Chain Link 2 resolves the Normal/Tribute Summon performed will not create a Summon Negation Window or a Summon Response Window.
+01.7w.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves is activated as Chain Link 2 resolves the Normal/Tribute Summon performed will not create a Summon Negation Window or a Summon Response Window.
 
-01.4x.	A player made to Normal/Tribute Summon a Monster by a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves cannot perform a Normal/Tribute Set but can only perform a Normal/Tribute Summon.
+01.7x.	A player made to Normal/Tribute Summon a Monster by a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves cannot perform a Normal/Tribute Set but can only perform a Normal/Tribute Summon.
 
-01.4y.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves states in its text that it performs a “Normal Summon”, a player activating that card or effect can either perform a Normal Summon or a Tribute Summon.
+01.7y.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves states in its text that it performs a “Normal Summon”, a player activating that card or effect can either perform a Normal Summon or a Tribute Summon.
 
-01.4z.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves states in its text that it performs a “Tribute Summon”, a player activating that card or effect must perform a Tribute Summon and not a Normal Summon.
+01.7z.	If a card or effect that performs a Normal/Tribute Summon immediately after that card or effect resolves states in its text that it performs a “Tribute Summon”, a player activating that card or effect must perform a Tribute Summon and not a Normal Summon.
 
-01.5.	A player cannot attempt to perform a Normal/Tribute Summon if they cannot finish performing it the moment they initiate it.
+01.9.	A player cannot attempt to perform a Normal/Tribute Summon if they cannot finish performing it the moment they initiate it.
 
-01.6.	A player can perform a Normal/Tribute Summon only if they have not used all available Normal/Tribute Summons they’re allowed during that turn.
+01.10.	A player can perform a Normal/Tribute Summon only if they have not used all available Normal/Tribute Summons they’re allowed during that turn.
 
-01.7.	A player can perform a Normal/Tribute Summon only during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+01.11.	A player can perform a Normal/Tribute Summon only during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
 
-01.8.	Monsters cannot be Normal Summoned to an Extra Monster Zone even if all Main Monsters are occupied or unusable.
+01.12.	Monsters cannot be Normal Summoned to an Extra Monster Zone even if all Main Monsters are occupied or unusable.
 
-01.9.	A player performing a Tribute Summon can place the Monster being Tribute Summoned in the same Main Monster Zone as a monster tribute for that Summon.
+01.13.	A player performing a Tribute Summon can place the Monster being Tribute Summoned in the same Main Monster Zone as a monster tribute for that Summon.
 
-01.10.	If all Main Monster Zones of a player are occupied or unusable that player cannot perform a Normal Summon
+01.14.	If all Main Monster Zones of a player are occupied or unusable that player cannot perform a Normal Summon.
 
-01.11.	If all Main Monster Zones of a player are occupied or unusable that player can perform a Tribute Summon as long as they Tribute a Monster in their Main Monster Zone to do so.
+01.15.	If all Main Monster Zones of a player are occupied or unusable that player can perform a Tribute Summon as long as they Tribute a Monster in their Main Monster Zone to do so.
 
-01.12.	A Normal Summon is also considered a Tribute Summon if a Monster was tributed to perform it.
+01.16.	If a card or effect prevents a Monster in a player hand from being Summoned and the removal of a Monster(s) on the field would allow that Monster to be Summoned that player cannot Tribute Summon the Monster in their hand by Tributing the Monster(s) on the field.
 
-01.13.	While performing a Tribute Summon, tributing and Summoning the Monster happen sequentially one after the other, not simultaneously.
+01.17.	A Normal Summon is also considered a Tribute Summon if a Monster was tributed to perform it.
 
-01.11.	To perform a Normal Summon of a Level 4 or lower Monster the player performing it places that Monster in face-up attack position from their hand to an unoccupied and usable Main Monster on their field. This is not considered a Tribute Summon.
+01.18.	Some cards, effects or Summoning conditions change the number if tributes required to Normal/Tribute Summon a Monster. To perform a Normal Summon of a Monster that has the number of Tributes the player performing it Tributes the number of monster required from Monsters they control, then they place the Monster being Normal Summoned in face-up attack position. This is considered a Tribute Summon.
 
-01.12.	To perform a Normal Summon of a Level 5 or 6 Monster the player performing it Tributes 1 Monster they control, then they place the Monster being Normal Summoned in face-up attack position. This is considered a Tribute Summon.
-
-01.13.	To perform a Normal Summon of a Level 7 or higher Monster the player performing it Tributes 2 Monster they control, then they place the Monster being Normal Summoned in face-up attack position, this is considered a Tribute Summon.
-
-01.14.	Some cards, effects or Summoning conditions change the number if tributes required to Normal/Tribute Summon a Monster. To perform a Normal Summon of a Monster that has the number of Tributes the player performing it Tributes the number of monster required from Monsters they control, then they place the Monster being Normal Summoned in face-up attack position. This is considered a Tribute Summon.
-
-01.15.	If a Level 5 or higher is Normal Summoned without tributing any Monsters due to a card, effect or a Summoning condition, no Monster is tribute and that Monster is Normal Summoned. This is not considered a Tribute Summon.
+01.19.	If a Level 5 or higher is Normal Summoned without tributing any Monsters due to a card, effect or a Summoning condition, no Monster is tribute and that Monster is Normal Summoned. This is not considered a Tribute Summon.
 
 02. Flip Summon
 
@@ -460,7 +484,7 @@ DoubleSummon
 
 •	Example: a player controls 5 Sheep Tokens in their Main Monster Zones, a Flame Swordsman in the Extra Monster Zone and they have Celtic Guardian and Elemental HERO Clayman in their hand. That player can activate Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” To Fusion Summon a Garura, Wings of Resonant Life with the materials “2 monsters with the same Type and Attribute, but different names” using the Flame Swordsman in their Monster Zone and either the Celtic Guardian or the Elemental HERO Clayman in their hand. That player cannot activate Invocation with the effect "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as material” even if they have the correct materials in hand.
 
-04.6.	If a card or effect prevents a Fusion Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Fusion Monster to be Summoned that player cannot activate a card or effect that performs a Fusion Summon (Example TODO maybe)
+04.6.	If a card or effect prevents a Fusion Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Fusion Monster to be Summoned that player cannot activate a card or effect that performs a Fusion Summon to Fusion Summon that Fusion Monster by using those Monster on the field as Fusion Material. (Example TODO maybe)
 
 04.7.	A Fusion Pendulum Monster that is face-up in the Extra Deck cannot be Fusion Summoned.
 
@@ -469,3 +493,25 @@ DoubleSummon
 •	Example: the card Ultimate Fusion has the effect: “Fusion Summon 1 Fusion Monster from your Extra Deck that mentions "Blue-Eyes White Dragon" or "Blue-Eyes Ultimate Dragon" as material”. To Fusion Summon Dragon Master Magia with the materials “"Blue-Eyes Ultimate Dragon" or 3 "Blue-Eyes" monsters + 1 "Chaos" or "Black Luster Soldier" Ritual Monster” using Ultimate Fusion a player must use Blue-Eyes Ultimate Dragon as Fusion Material and not 3 “Blue-Eyes” Monster.
 
 04.9.	If when resolving an effect that performs a Fusion Summon no Fusion Monster is able to be Fusion Summoned no Fusion Materials are moved and no Monster is Summoned. If this happens the Fusion Summon did not happen.
+
+04.10.	If a player is required by a card or effect to perform a Fusion Summon and they have 1 or more valid Fusion Monster to Fusion Summon with that card or effect, they must Fusion Summon 1 of those Monsters.
+
+04.11.	All Monsters can be used as Fusion Material including but not limited to: Link Monsters, Pendulum Monsters, Xyz Monsters and Token Monsters.
+
+04.12.	Face-down defense position Monsters can be used as Material for a Fusion Summon but only if they are controlled by the player performing the Fusion Summon.
+
+05. Link Summon
+
+01.7a.	A Link Summon is the process of Summoning a Link Monster from the Extra Deck to a Monster Zone.
+
+01.7b.	A Link Monster that is Link Summoned can only be placed in an Extra Monster Zone or to a Monster Zone you control that a Link Monster points to.
+
+01.7c.	A player can Link Summon a Link Monster to a Zone they control that is pointed to by a Link Monster controlled by their opponent.
+
+01.7d.	The turn player can perform a Link Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+01.7e.	To perform a Link Summon the player performing the Link Summon chooses a valid Link Monster in their Extra Deck to Link Summon, after that they send a number of Monsters from their field to the Graveyard depending on the Materials of the Link Monster being Summoned and its LINK Rating. Then the Link Monster is placed in any valid Monster Zone.
+
+01.7f.	The amount of Monsters used as Material for a Link Summon must be equal to the LINK Rating of the Monster being Link Summoned. A Link Monster used as Material for a Link Summon counts as either 1 monster or an amount exactly equal to its LINK Rating, the player performing the Link Summon can choose which of the 2 is applied.
+
+01.7g.	A player can Link Summon to an Extra Monster Zone while they already control a Monster in the other Extra Monster Zone if doing so would create an Extra-Link (See Extra-Link AHHHH)
