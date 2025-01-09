@@ -1,4 +1,3 @@
-
 Rules
 Perfect Rulebook 2015
 Perfect Rulebook 2017
@@ -473,9 +472,11 @@ DoubleSummon
 
 04.1.	A Fusion Summon is the process of Summoning a Fusion Monster from the Extra Deck to a Monster Zone by a card or effect that performs a “Fusion Summon”.
 
-04.2.	A Fusion Summon can only be performed by a card effect.
+04.2.	A Fusion Monster being Fusion Summoned can be placed in any Monster Zone.
 
-04.3.	When resolving an effect to Fusion Summon the player performing the Summon choses a Fusion Monster that can be Summoned at that time to be Fusion Summoned, after that, the Fusion Material mentioned on that Fusion Monster are sent from the location(s) stated in that Fusion Monster’s effect to the location(s) stated on that Fusion Monster. Then the Fusion Monster is Fusion Summoned to any unoccupied and usable Monster Zone.
+04.3.	A Fusion Summon can only be performed by a card effect.
+
+04.4.	When resolving an effect to Fusion Summon the player performing the Summon choses a Fusion Monster that can be Summoned at that time to be Fusion Summoned, after that, the Fusion Material mentioned on that Fusion Monster are sent from the location(s) stated in that Fusion Monster’s effect to the location(s) stated on that Fusion Monster. Then the Fusion Monster is Fusion Summoned to any unoccupied and usable Monster Zone.
 
 •	Example: a player activates Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” and they have Monster Egg in their hand, Hinotama Soul on their Monster Zone and another Hinotama Soul in their Deck. When Polymerization resolves that player choses to Fusion Summon Charubin the Fire Knight that has the materials “"Monster Egg" + "Hinotama Soul"”, they must sent the Monster Egg that is in their hand and the Hinotama Soul that is on their Monster Zone to their Graveyard. They cannot Send the Monster Egg in their hand and the Hinotama Soul in their Deck to the Graveyard to perform the Fusion Summon. After the Fusion Materials are sent to the Graveyard The Fusion Monster is Special Summon to a Monster Zone.
 
@@ -507,7 +508,7 @@ DoubleSummon
 
 05. Link Summon
 
-05.1.	A Link Summon is the process of Summoning a Link Monster from the Extra Deck to a Monster Zone by sending the Link materials to the Graveyard.
+05.1.	A Link Summon is the process of Summoning a Link Monster from the Extra Deck to a Monster Zone by sending the Link materials from the field to the Graveyard.
 
 05.2.	A Link Monster that is Link Summoned can only be placed in an Extra Monster Zone or to a Monster Zone you control that a Link Monster points to.
 
@@ -523,41 +524,75 @@ DoubleSummon
 
 05.8.	A player can Link Summon to an Extra Monster Zone while they already control a Monster in the other Extra Monster Zone if doing so would create an Extra-Link. (See Extra-Link AHHHH)
 
+05.9.	If all Monster Zones of a player are occupied or unusable that player can perform a Link Summon as long as they use a Monster in a Monster Zone that a Link Monster can be Link Summoned to as Link Material.
+
+05.10.	If a card or effect prevents a Link Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Link Monster to be Summoned that player cannot try to performs a Link Summon to Summon that Link Monster by using those Monster on the field as Link Material.
+
 06. Pendulum Summon
 
-05.1.	A Pendulum Summon is the process of Special Summoning any number of Monsters from a player hand or face-up Extra-Deck to the Monster Zones depending on the Pendulum Monsters placed in the Pendulum Zones.
+06.1.	A Pendulum Summon is the process of Special Summoning any number of Monsters from a player hand or face-up Extra-Deck to the Monster Zones depending on the Pendulum Monsters placed in the Pendulum Zones.
 
-05.2.	A player can only perform 1 Pendulum Summon per turn.
+06.2.	A player can only perform 1 Pendulum Summon per turn.
 
-05.2a.	Four cards (“Moissa Knight, the Comet General”, “Zefraath”, “Extra Pendulum” and “Soul Pendulum”), allow a player to perform an additional Pendulum Summon during a turn.
+06.2a.	Four cards (“Moissa Knight, the Comet General”, “Zefraath”, “Extra Pendulum” and “Soul Pendulum”), allow a player to perform an additional Pendulum Summon during a turn.
 
-05.2b.	If a card states in its text “you can conduct 1 Pendulum Summon of a […] monster(s) during your Main Phase this turn, in addition to your Pendulum Summon. (You can only gain this effect once per turn.)”, then its an effect that allows a player to perform an additional Pendulum Summon.
+06.2b.	If a card states in its text “you can conduct 1 Pendulum Summon of a […] monster(s) during your Main Phase this turn, in addition to your Pendulum Summon. (You can only gain this effect once per turn.)”, then its an effect that allows a player to perform an additional Pendulum Summon.
 
-05.2c.	A player using a card or effect that allows a player to perform an additional Pendulum Summon in a turn can decide whether to use a standard Pendulum Summon or the additional Pendulum Summon. They function both in the same way.
+06.2c.	A player using a card or effect that allows a player to perform an additional Pendulum Summon in a turn can decide whether to use a standard Pendulum Summon or the additional Pendulum Summon. They function both in the same way.
 
-05.2d.	If multiple effect would make a player gain an additional Pendulum Summon that player gain only 1 additional Pendulum Summon.
+06.2d.	If multiple effect would make a player gain an additional Pendulum Summon that player gain only 1 additional Pendulum Summon.
 
-05.3.	A player can only conduct a Pendulum Summon if both of they have a Pendulum Monster in both Pendulum Zones.
+06.2e.	Two cards (“Pendulum Evolution” and “Pendulum Encore”), make a player perform a Pendulum Summon immediately after their effect resolves.
 
-05.4.	The turn player can perform a Pendulum Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+06.2f.	If a card of effect states in its text “immediately after this effect resolves, you can Pendulum Summon a […] Monster(s).”, then that is an effect that makes a player perform an additional Normal/Tribute Summon immediately after that effect resolves.
 
-05.5.	To perform a Pendulum Summon the player performing the Pendulum Summon chooses any number of Monster in their hand and face-up Extra Deck and places them on their field.
+06.2g.	A player may Pendulum Summon any number of times with cards or effects that perform a Pendulum Summon immediately after that card or effect resolves during both players turns. 
 
-05.6.	Only Monsters with a Level can be Pendulum Summoned. Monsters without a Level such as Link Monsters and Xyz Monster cannot be Pendulum Summoned.
+06.2h.	Pendulum Summons made by cards and effects that perform a Pendulum Summon immediately after that card or effect resolves do not count toward as the one Pendulum Summon that a player can perform in a turn or the additional Pendulum Summon gained by card or effects that allow the player to perform an additional Pendulum Summon.
 
-05.7.	The Level of the Monster being Summoned in a Pendulum Summon must be between the value of the scales of the 2 Pendulum Monsters in the Pendulum Zones of the player performing the Pendulum Summon, A Monster that has a Level that is equal to the value of a scale cannot be Pendulum Summoned.
+06.2i.	If a card or effect that performs a Pendulum Summon immediately after that card or effect resolves is activated as Chain Link 1 resolves the Pendulum Summon performed will create a Summon Negation Window and a Summon Response Window. (See Summon Negation Window Summons00.4)
 
-05.8.	A Monster being Pendulum Summoned from the hand can only be placed in a Main Monster Zone.
+06.2j.	If a card or effect that performs a Pendulum Summon immediately after that card or effect resolves is activated as Chain Link 2 resolves the Pendulum Summon performed will not create a Summon Negation Window or a Summon Response Window.
 
-05.9.	A Pendulum Monster being Pendulum Summoned from the face-up Extra Deck can only be placed in an Extra Monster Zone or a Zone a Link Monster point to.
+06.3.	A player can only conduct a Pendulum Summon if both of they have a Pendulum Monster in both Pendulum Zones.
 
-05.10.	A player cannot Pendulum Summon a Monster from their face-up Extra Deck to an Extra Monster Zone if they already control a Monster in the other Extra Monster Zone.
+06.4.	The turn player can perform a Pendulum Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
 
-05.11.	Pendulum Extra Deck Monster in Extra Deck face-up cannot be Pendulum Summoned if they were not Properly Special Summoned.
+06.5.	To perform a Pendulum Summon the player performing the Pendulum Summon chooses any number of Monster in their hand and face-up Extra Deck and places them on their field.
 
-05.12.	If a Pendulum Summon is negated the Summon of all Monsters being Pendulum Summoned Is negated.
+06.6.	Only Monsters with a Level can be Pendulum Summoned. Monsters without a Level such as Link Monsters and Xyz Monster cannot be Pendulum Summoned.
 
-05.13.	All the Monster Summoned during a Pendulum Summone are Summoned simultaneously.
+06.7.	The Level of the Monster being Summoned in a Pendulum Summon must be between the value of the scales of the 2 Pendulum Monsters in the Pendulum Zones of the player performing the Pendulum Summon, A Monster that has a Level that is equal to the value of a scale cannot be Pendulum Summoned.
+
+06.8.	A Monster being Pendulum Summoned from the hand can only be placed in a Main Monster Zone.
+
+06.9.	A Pendulum Monster being Pendulum Summoned from the face-up Extra Deck can only be placed in an Extra Monster Zone or a Zone a Link Monster point to.
+
+06.10.	A player cannot Pendulum Summon a Monster from their face-up Extra Deck to an Extra Monster Zone if they already control a Monster in the other Extra Monster Zone.
+
+06.11.	Pendulum Extra Deck Monster in Extra Deck face-up cannot be Pendulum Summoned if they were not Properly Special Summoned.
+
+06.12.	If a Pendulum Summon is negated the Summon of all Monsters being Pendulum Summoned Is negated.
+
+06.13.	All the Monster Summoned during a Pendulum Summon are Summoned simultaneously.
 
 07. Synchro Summon
+
+07.1.	A Synchro Summon is the process of Summoning a Link Monster from the Extra Deck to a Monster Zone by sending the Synchro Materials to the Graveyard.
+
+07.2.	A Synchro Monster being Synchro Summoned can be placed in any Monster Zone.
+
+07.3.	The turn player can perform a Link Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+07.4.	To perform a Synchro Summon the player performing the Synchro Summon chooses a valid Synchro Monster in their Extra Deck to Synchro Summon, after that they send a number of Monsters from their field to the Graveyard depending on the Materials of the Synchro Monster being Summoned and its Level. Then the Synchro Monster is placed in any unoccupied and usable Monster Zone.
+
+07.5.	Only Monsters with a Level used as Synchro Materials of a Synchro Summon. Monsters without a Level such as Link Monsters and Xyz Monster used.
+
+07.6.	The Sum of the Level of the Monsters used as Synchro Material for the Synchro Summon of a Synchro Monster must be equal to the Level of the Synchro Monster being Summoned.
+
+07.7.	If the Materials of a Synchro Summons are not sent to the Graveyard because of a card or effect but instead get sent to another location the Synchro Monster is still Summoned.
+
+07.8.	If all Monster Zones of a player are occupied or unusable that player can perform a Synchro Summon as long as they use a Monster they control as Synchro Material.
+
+07.9.	If a card or effect prevents a Synchro Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Synchro Monster to be Summoned that player cannot try to performs a Synchro Summon to Summon that Synchro Monster by using those Monster on the field as Link Material.
 
