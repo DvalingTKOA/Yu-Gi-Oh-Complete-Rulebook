@@ -29,7 +29,8 @@ n. Card Types
 n. Summons
 01.	General
 02.	Normal/Tribute Summon
-n. Card Types
+2. Card Types
+
 00. General
 
 00.1.	The card types are Monster, Spell and Trap.
@@ -323,7 +324,8 @@ JRulebook66 (Not the right link TODO)
 
 03.8c.	An Xyz Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Xyz Monsters do not have a Level. Xyz Monsters can be used as material for a Fusion Summon or a Link Summon.
 
-n. Summons
+3. Summons
+
 00. General
 
 00.1.	A Summon is the only way to place a Monster in any Zone to a Monster Zone.
@@ -490,7 +492,7 @@ DoubleSummon
 
 •	Example: a player controls 5 Sheep Tokens in their Main Monster Zones, a Flame Swordsman in the Extra Monster Zone and they have Celtic Guardian and Elemental HERO Clayman in their hand. That player can activate Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” To Fusion Summon a Garura, Wings of Resonant Life with the materials “2 monsters with the same Type and Attribute, but different names” using the Flame Swordsman in their Monster Zone and either the Celtic Guardian or the Elemental HERO Clayman in their hand. That player cannot activate Invocation with the effect "Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand as material” even if they have the correct materials in hand.
 
-04.8.	If a card or effect prevents a Fusion Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Fusion Monster to be Summoned that player cannot activate a card or effect that performs a Fusion Summon to Fusion Summon that Fusion Monster by using those Monster on the field as Fusion Material. (Example TODO maybe)
+04.8.	If a card or effect prevents a Fusion Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Fusion Monster to be Summoned that player cannot activate a card or effect that performs a Fusion Summon to Fusion Summon that Fusion Monster by using those Monster(s) on the field as Fusion Material. (Example TODO maybe)
 
 04.9.	A Fusion Pendulum Monster that is face-up in the Extra Deck cannot be Fusion Summoned.
 
@@ -526,7 +528,7 @@ DoubleSummon
 
 05.9.	If all Monster Zones of a player are occupied or unusable that player can perform a Link Summon as long as they use a Monster in a Monster Zone that a Link Monster can be Link Summoned to as Link Material.
 
-05.10.	If a card or effect prevents a Link Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Link Monster to be Summoned that player cannot try to performs a Link Summon to Summon that Link Monster by using those Monster on the field as Link Material.
+05.10.	If a card or effect prevents a Link Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Link Monster to be Summoned that player cannot try to performs a Link Summon to Summon that Link Monster by using those Monster(s) on the field as Link Material.
 
 06. Pendulum Summon
 
@@ -578,15 +580,15 @@ DoubleSummon
 
 07. Synchro Summon
 
-07.1.	A Synchro Summon is the process of Summoning a Link Monster from the Extra Deck to a Monster Zone by sending the Synchro Materials to the Graveyard.
+07.1.	A Synchro Summon is the process of Summoning a Synchro Monster from the Extra Deck to a Monster Zone by sending the Synchro Materials to the Graveyard.
 
 07.2.	A Synchro Monster being Synchro Summoned can be placed in any Monster Zone.
 
-07.3.	The turn player can perform a Link Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+07.3.	The turn player can perform a Synchro Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
 
-07.4.	To perform a Synchro Summon the player performing the Synchro Summon chooses a valid Synchro Monster in their Extra Deck to Synchro Summon, after that they send a number of Monsters from their field to the Graveyard depending on the Materials of the Synchro Monster being Summoned and its Level. Then the Synchro Monster is placed in any unoccupied and usable Monster Zone.
+07.4.	To perform a Synchro Summon the player performing the Synchro Summon chooses a valid Synchro Monster in their Extra Deck to Synchro Summon. After that they send a number of Monsters from their field to the Graveyard depending on the Materials of the Synchro Monster being Summoned and its Level. Then the Synchro Monster is placed in any unoccupied and usable Monster Zone.
 
-07.5.	Only Monsters with a Level used as Synchro Materials of a Synchro Summon. Monsters without a Level such as Link Monsters and Xyz Monster used.
+07.5.	Only Monsters with a Level can be used as Synchro Materials of a Synchro Summon. Monsters without a Level such as Link Monsters and Xyz Monster cannot be used.
 
 07.6.	The Sum of the Level of the Monsters used as Synchro Material for the Synchro Summon of a Synchro Monster must be equal to the Level of the Synchro Monster being Summoned.
 
@@ -594,5 +596,111 @@ DoubleSummon
 
 07.8.	If all Monster Zones of a player are occupied or unusable that player can perform a Synchro Summon as long as they use a Monster they control as Synchro Material.
 
-07.9.	If a card or effect prevents a Synchro Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Synchro Monster to be Summoned that player cannot try to performs a Synchro Summon to Summon that Synchro Monster by using those Monster on the field as Link Material.
+07.9.	If a card or effect prevents a Synchro Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Synchro Monster to be Summoned that player cannot try to performs a Synchro Summon to Summon that Synchro Monster by using those Monster(s) on the field as Synchro Material.
+
+08. Xyz Summon
+
+08.1.	An Xyz Summon is the process of Summoning a Xyz Monster from the Extra Deck to a Monster Zone by using monsters as Xyz Materials.
+
+08.2.	An Xyz Monster being Xyz Summoned can be placed in any Monster Zone.
+
+08.3.	The turn player can perform a Xyz Summon during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+08.4.	To perform an Xyz Summon the player performing the Xyz Summon chooses a valid Xyz Monster in their Extra Deck to Xyz Summon. After that they move a number of Monsters on their field to one of their unoccupied and usable Monster Zone stacked on each other depending on the Materials of the Xyz Monster being Summoned and its Rank. Then the Xyz Monster is placed in on top of those cards in the same Zone.
+
+08.5.	Only Monsters with a Level can be used as Xyz Materials of an Xyz Summon unless specified in the materials. Monsters without a Level such as Link Monsters and Xyz Monster cannot be used.
+
+08.6.	The monsters used as Xyz Material are not considered to have left the field even though the monsters are not on the field.
+
+08.7.	If all Monster Zones of a player are occupied or unusable that player can perform a Xyz Summon as long as they use a Monster they control as Xyz Material.
+
+08.8.	If a card or effect prevents an Xyz Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Xyz Monster to be Summoned that player cannot try to performs an Xyz Summon to Summon that Xyz Monster by using those Monster(s) on the field as Xyz Material.
+
+4. Turns
+
+00. General
+
+00.1.	A turn is composed of 6 Phases: Draw, Standby, Main 1, Battle, Main 2, End. The Battle Phase and Main Phase 2 are the only Phases that can be skipped, all other phases are performed even if nothing happens during that Phase.
+
+00.2.	A Phase or Steps ends if there is not a chain building or resolving, there are no mandatory effects that must be activated at that time, there are no delayed effects that need to be resolved, both players have passed priority once and they both agree to change phase.
+
+00.3.	When a Phase or Steps ends, any effects that last “until end of the” that Phase or Steps stop applying. When an effect lasts “until the End Phase” it will stop applying at the end of the End Phase and not when the Phase starts.
+
+00.4.	At the start of every Phase and Step the turn player has priority.
+
+00.5.	Some effects allow a player to perform the Battle Phase twice.
+
+00.5a.	If multiple effects allow a player to perform an additional Battle Phase only one extra Battle Phase can be performed.
+
+00.5b.	If an effect that ends the Battle Phase is activated while the Battle Phase can be conducted twice only one of the Battle Phases ends and the second one can still be performed. There is 1 exception to this rule.
+
+00.5c.	If the effect of “The Unhappy Maiden” is activated while the Battle Phase can be conducted twice the Battle Phase ends and the second on cannot be performed.
+
+00.6.	Some effects can cause a step, phase, or turn to be skipped. To skip a step, phase, or turn is to proceed past it as though it didn’t exist.
+
+00.7.	No game events can occur between steps, phases, or turns.
+
+01. Draw Phase
+
+01.1.	At the start of the Draw Phase the turn player draws a card. No cards or effects can be activated before the card is drawn.
+
+01.2.	During the first Draw Phase of the player who plays first that player does not draw a card, but the Draw Phase is still performed.
+
+02. Main Phase
+
+02.1.	There are 2 Main Phases in a turn. The first one is called Main Phase 1 and the second one is called Main Phase 2.
+
+02.2.	The Main Phase 2 is only performed if the Battle Phase is performed and it must be performed if the Battle Phase is performed.
+
+02.3.	The Main Phase is the only phase in which a player can set Spell/Traps from the hand, activate Normal/Ritual/Continuous/Field Spells, activate an ignition effect and perform a Normal/Tribute Set, Normal/Tribute Summon, Link Summon, Synchro Summon and Xyz Summon.
+
+02.4.	During either Main Phase the turn player can perform a Normal/Tribute Summon/Set if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+02.5.	Some effects must be activated “at the start of the Main Phase [1/2]”. To be activated they must be the first action during that Phase.
+
+03. Battle Phase
+
+03.1.	The Battle Phase has 4 Steps: Start, Battle, Damage, End.
+
+03.2.	The Damage Step is performed when an attack is declared and it’s not negated or stopped in any other way.
+
+04. Start Step
+
+04.1.	During the Start Step attack cannot be declared.
+
+04.2.	During the Start Step effects that activate “at the Start of the Battle Phase”
+
+04.3.	After the Start Step ends the Battle Step begins. A player cannot proceed directly to the End Step.
+
+05. Battle Step
+
+05.1.	A player enters the Battle Step after the Start Step ends and after the Damage Step ends.
+
+05.2.	During the Battle Step the turn player can declare an attack if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+05.3.	To declare an attack the turn player chooses a face-up monster in attack position that they control that has not declared an attack this turn. If the opponent controls monsters they must choose a monster their opponent controls as the attack target, if they control no monsters they declare a direct attack
+
+05.4.	Effect that trigger or can be activated when an attack is declared can only be activated in a chain immediately after the attack is declared.
+
+05.5.	While a monster is attacking, if the legal targets that monster can attack changes a Battle Replay Happens.
+
+05.5a.	When a Battle Replay happens the player declaring the attack can choose to change the attack target to another legal target. This change is not considered to be declaring an attack.
+
+05.5b.	If a Battle Replay happens and after that the attack targets change another Battle Replay happens.
+
+05.5c.	If a monster is Summoned to the opponent’s field or a monster is removed the attack targets changes and a Battle Replay happens.
+
+05.5d.	If a monster is Summoned to the opponent’s field and a monster is removed so the number of monster on the opponent field doesn’t change a Battle Replay happens.
+
+05.5e.	If an effect makes a monster on the opponent’s field unable to be attacked or such an effect stops applying the attack target changes and a Battle Replay happens.
+
+05.5f.	If an effect allows an attacking monster to attack directly or such an effect stops applying the attack targets changes and a Battle Replay happens. 
+
+05.6.	If an attack is declared and both players pass priority the Battle Step ends and the Damage Step Begins.
+
+05.7.	After the Battle Step ends the End Step Begins. 
+
+06. Damage Step
+
+06.1.	The Damage Step can only be reached when an attack is declared.
 
