@@ -92,7 +92,7 @@ Ruling163
 
 01.8e.	While in face-up defense it’s placed horizontally in a monster zone with the front of the card facing up.
 
-01.8f.	While in face-down defense it’s placed horizontally in a monster zone with the front of the card facing down. All the characteristic of the card are known only to the controller of the card.
+01.8f.	While in face-down defense it’s placed horizontally in a monster zone with the front of the card facing down. All the characteristics of the card are known only to the controller of the card.
 
 02. Main Deck Monster (Unofficial term)
 
@@ -324,6 +324,88 @@ JRulebook66 (Not the right link TODO)
 
 03.8c.	An Xyz Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Xyz Monsters do not have a Level. Xyz Monsters can be used as material for a Fusion Summon or a Link Summon.
 
+04. Spell
+
+04.1.	There are 6 types of Spells: Continuous, Equip, Field, Normal, Quick-Play, Ritual.
+
+04.2.	Activating a Spell Card or an effect of Spell Card is Spell Speed 1.
+
+04.3.	The turn player can activate a Spell Card during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+04.4.	To activate a Spell Card, the player activating it places that Spell Card face-up in an unoccupied Spell/Trap Zone from their hand OR flip a face-down Spell Card in their Spell/Trap Zone face-up into the same zone.
+
+04.5.	The turn player can set a Spell Card during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
+
+04.6.	To set a Spell Card, the player setting it places that Spell Card face-down in an unoccupied Spell/Trap Zone from their hand.
+
+05. Continuous Spell
+
+05.1.	A Continuous Spell Card has an infinity symbol next to the words “Spell Card”.
+
+05.2.	A Continuous Spell Card remains on the field after being activated.
+
+05.3.	If the activation of a Continuous Spell Card is negated, the Continuous Spell Card is sent to the Graveyard at the end of the Chain it was activated in.
+
+05.4.	If a Continuous Spell Card is removed from the field before an effect of that card on the field resolves, that effect will not resolve. This does not apply if it’s removed to pay for the cost to activate itself or one of its effects.
+
+06. Equip Spell
+
+06.1.	An Equip Spell Card has a plus symbol next to the words “Spell Card”.
+
+06.2.	An Equip Spell Card remains on the field after being activated.
+
+06.3.	If the activation of an Equip Spell Card is negated, the Equip Spell Card is sent to the Graveyard at the end of the Chain it was activated in.
+
+06.4.	When activating an Equip Spell the player activating it Targets a Monster on the field to be equipped to. If an Equip Spell Card has an effect on activation that Equips itself to a monster as part of the effect, the player activating it doesn’t Target a monster on the field to be equipped to.
+
+•	Example: If Mikanko Fire Dance that says” Special Summon 1 "Mikanko" monster from your hand or GY, and if you do, equip it with this card“ is activated, the player activating it does not need to Target any Monster on the field.
+
+06.4.	After a Chain resolves, if an Equip Spell that was activated during that chain is not equipped to a Monster, that Spell is sent to the Graveyard.
+
+06.5.	If the Monster with an Equip Spell Card equipped to it leaves the field or is used as material for an Xyz Summon, the Equip Spell is destroyed. The Monster leaving the field and the Equip Spell Card being destroyed occur simultaneously. The Equip Spell Card is not considered to be destroyed by a card effect.
+
+06.6.	If an Equip Spell Card is removed from the field before an effect of that card on the field resolves, that effect will not resolve. This does not apply if it’s removed to pay for the cost to activate itself or one of its effects.
+
+07. Field Spell
+
+07.1.	A Field Spell Card has a 4-point star symbol next to the words “Spell Card”.
+
+07.2.	A Field Spell Card remains on the field after being activated.
+
+07.3.	If the activation of a Field Spell Card is negated, the Field Spell Card is sent to the Graveyard at the end of the Chain it was activated in.
+
+07.4.	A Field Spell is placed in the Field Zone when activated or set instead of the Spell/Trap Zone.
+
+07.5.	If a player’s Field Zone is occupied by a Field Spell, that player can still activate or set a Field Spell from their hand, if they do they send the card in the Field Zone to the Graveyard then they activate or set the Field Spell in their hand. Sending the card in the Field Zone to the Graveyard is not a cost. Sending the card to the Graveyard and activating or setting the Field Spell occur sequentially.
+
+07.6.	If a Field Spell Card is removed from the field before an effect of that card on the field resolves, that effect will not resolve. This does not apply if it’s removed to pay for the cost to activate itself or one of its effects.
+
+08. Normal Spell
+
+08.1.	A Normal Spell Card doesn’t have any symbol next to the words “Spell Card”.
+
+08.2.	A Normal Spell Card is sent to the Graveyard at the end of the Chain it was activated in.
+
+09. Quick-Play Spell
+
+08.1.	A Quick-Play Spell Card has a lightning bolt symbol next to the words “Spell Card”.
+
+08.2.	A Quick-Play Spell Card is sent to the Graveyard at the end of the Chain it was activated in.
+
+08.3.	Activating a Quick-Play Spell is Spell Speed 2. The effects of Quick-Play Spells are Spell Speed 1.
+
+08.4.	The turn player can activate a Quick-Play Spell Card from their hand during their turn whenever they have priority. 
+
+08.5.	Quick-Play Spells cannot be activated the turn they are set.
+
+08.6.	The turn player can activate a Quick-Play Spell Card set in their Spell/Trap Zone at any point whenever they have priority.
+
+09. Ritual Spell
+
+09.1.	A Ritual Spell Card has a flaming chalice symbol next to the words “Spell Card”.
+
+09.2.	A Ritual Spell Card is a card that includes an effect that performs a Ritual Summon. Apart from this they work the same way as Normal Spell Cards.
+
 3. Summons
 
 00. General
@@ -480,11 +562,11 @@ DoubleSummon
 
 04.4.	When resolving an effect to Fusion Summon the player performing the Summon choses a Fusion Monster that can be Summoned at that time to be Fusion Summoned, after that, the Fusion Material mentioned on that Fusion Monster are sent from the location(s) stated in that Fusion Monster’s effect to the location(s) stated on that Fusion Monster. Then the Fusion Monster is Fusion Summoned to any unoccupied and usable Monster Zone.
 
-•	Example: a player activates Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” and they have Monster Egg in their hand, Hinotama Soul on their Monster Zone and another Hinotama Soul in their Deck. When Polymerization resolves that player choses to Fusion Summon Charubin the Fire Knight that has the materials “"Monster Egg" + "Hinotama Soul"”, they must sent the Monster Egg that is in their hand and the Hinotama Soul that is on their Monster Zone to their Graveyard. They cannot Send the Monster Egg in their hand and the Hinotama Soul in their Deck to the Graveyard to perform the Fusion Summon. After the Fusion Materials are sent to the Graveyard The Fusion Monster is Special Summon to a Monster Zone.
+•	Example: a player activates Polymerization with the effect “Fusion Summon 1 Fusion Monster from your Extra Deck, using monsters from your hand or field as material.” and they have Monster Egg in their hand, Hinotama Soul on their Monster Zone and another Hinotama Soul in their Deck. When Polymerization resolves that player choses to Fusion Summon Charubin the Fire Knight that has the materials “"Monster Egg" + "Hinotama Soul"”, they must send the Monster Egg that is in their hand and the Hinotama Soul that is on their Monster Zone to their Graveyard. They cannot Send the Monster Egg in their hand and the Hinotama Soul in their Deck to the Graveyard to perform the Fusion Summon. After the Fusion Materials are sent to the Graveyard the Fusion Monster is Special Summon to a Monster Zone.
 
 04.4.	A Fusion Summon can Summon a Monster to any unoccupied and usable Main Monster Zone and any unoccupied and usable Extra Monster Zone.
 
-04.5.	If during the resolution of a card or effect that performs a Fusion Summon the Fusion Material never do not change location, the Fusion Monster will not be Summoned, . If this happens the Fusion Summon did not happen.
+04.5.	If during the resolution of a card or effect that performs a Fusion Summon the Fusion Material never do not change location, the Fusion Monster will not be Summoned. If this happens the Fusion Summon did not happen.
 
 04.6.	If during the resolution of a card or effect that performs a Fusion Summon the Fusion Material get sent to the wrong location due to a card or effect the Fusion Monster is still Summoned.
 
@@ -538,7 +620,7 @@ DoubleSummon
 
 06.2a.	Four cards (“Moissa Knight, the Comet General”, “Zefraath”, “Extra Pendulum” and “Soul Pendulum”), allow a player to perform an additional Pendulum Summon during a turn.
 
-06.2b.	If a card states in its text “you can conduct 1 Pendulum Summon of a […] monster(s) during your Main Phase this turn, in addition to your Pendulum Summon. (You can only gain this effect once per turn.)”, then its an effect that allows a player to perform an additional Pendulum Summon.
+06.2b.	If a card states in its text “you can conduct 1 Pendulum Summon of a […] monster(s) during your Main Phase this turn, in addition to your Pendulum Summon. (You can only gain this effect once per turn.)”, then it’s an effect that allows a player to perform an additional Pendulum Summon.
 
 06.2c.	A player using a card or effect that allows a player to perform an additional Pendulum Summon in a turn can decide whether to use a standard Pendulum Summon or the additional Pendulum Summon. They function both in the same way.
 
@@ -642,7 +724,7 @@ DoubleSummon
 
 01. Draw Phase
 
-01.1.	At the start of the Draw Phase the turn player draws a card. No cards or effects can be activated before the card is drawn.
+01.1.	At the start of the Draw Phase the turn player draws a card. No cards or effects can be activated before the card is drawn unless specifically stated on a card or effect.
 
 01.2.	During the first Draw Phase of the player who plays first that player does not draw a card, but the Draw Phase is still performed.
 
@@ -668,7 +750,7 @@ DoubleSummon
 
 04.1.	During the Start Step attack cannot be declared.
 
-04.2.	During the Start Step effects that activate “at the Start of the Battle Phase”
+04.2.	During the Start Step effects that activate or resolve “at the Start of the Battle Phase” can be activated or resolved.
 
 04.3.	After the Start Step ends the Battle Step begins. A player cannot proceed directly to the End Step.
 
@@ -678,29 +760,140 @@ DoubleSummon
 
 05.2.	During the Battle Step the turn player can declare an attack if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
 
-05.3.	To declare an attack the turn player chooses a face-up monster in attack position that they control that has not declared an attack this turn. If the opponent controls monsters they must choose a monster their opponent controls as the attack target, if they control no monsters they declare a direct attack
+05.3.	To declare an attack, the turn player chooses a face-up monster in attack position that they control that has not declared an attack this turn. If the non-turn player controls monsters they must choose a monster their opponent controls as the attack target, if they control no monsters they declare a direct attack
 
 05.4.	Effect that trigger or can be activated when an attack is declared can only be activated in a chain immediately after the attack is declared.
 
-05.5.	While a monster is attacking, if the legal targets that monster can attack changes a Battle Replay Happens.
+05.5.	While a monster is attacking, if the legal targets that monster can attack changes a Battle Replay is triggered.
 
-05.5a.	When a Battle Replay happens the player declaring the attack can choose to change the attack target to another legal target. This change is not considered to be declaring an attack.
+05.5a.	When a Battle Replay is triggered the player declaring the attack can choose to change the attack target to another legal target. This change is not considered to be declaring an attack.
 
-05.5b.	If a Battle Replay happens and after that the attack targets change another Battle Replay happens.
+05.5b.	If a Battle Replay is triggered and after that the attack targets change another Battle Replay is triggered. There is no limit to the number of Battle Replays that can occur on any attack.
 
-05.5c.	If a monster is Summoned to the opponent’s field or a monster is removed the attack targets changes and a Battle Replay happens.
+05.5c.	If a monster is Summoned to the opponent’s field or a monster is removed the attack targets changes and a Battle Replay is triggered.
 
-05.5d.	If a monster is Summoned to the opponent’s field and a monster is removed so the number of monster on the opponent field doesn’t change a Battle Replay happens.
+05.5d.	If a monster is Summoned to the opponent’s field and a monster is removed so the number of monster on the opponent field doesn’t change a Battle Replay is triggered.
 
-05.5e.	If an effect makes a monster on the opponent’s field unable to be attacked or such an effect stops applying the attack target changes and a Battle Replay happens.
+05.5e.	If an effect makes a monster on the opponent’s field unable to be attacked or such an effect stops applying the attack target changes and a Battle Replay is triggered.
 
-05.5f.	If an effect allows an attacking monster to attack directly or such an effect stops applying the attack targets changes and a Battle Replay happens. 
+05.5f.	If an effect allows an attacking monster to attack directly or such an effect stops applying the attack targets changes and a Battle Replay is triggered. 
 
-05.6.	If an attack is declared and both players pass priority the Battle Step ends and the Damage Step Begins.
+05.6.	If an attack is declared, there isn’t a chain forming or resolving and both players pass priority the Battle Step ends and the Damage Step Begins.
 
-05.7.	After the Battle Step ends the End Step Begins. 
+05.7.	After the Battle Step ends while no attack is currently occurring, the End Step Begins. 
 
 06. Damage Step
 
-06.1.	The Damage Step can only be reached when an attack is declared.
+06.1.	The Damage Step is divided in 5 parts: Start of the Damage Step, Before Damage Calculation, Damage Calculation, After Damage Calculation and End of the Damage Step.
 
+06.2.	The Damage Step can only be reached when an attack is declared.
+
+06.3.	During the Damage Step only the following types of effects can be activated: Counter Trap Cards, cards and effects that negate the activation of cards and/or effects, cards and effects that set, increase or decrease the ATK and/or DEF of monsters (only up until Before Damage Calculation), mandatory effects, Monster Effects that activate when flipped face-up and effects of cards that activate when that card itself is moved to a different zone.
+
+06.4.	Once an attack has reached the Damage step the monster that declared the attacked is treated as “having attacked”, even if damage calculation is not performed.
+
+06.5.	Effects that list a particular timing like “at the start of the Damage Step” or “during damage calculation” cannot be activated after other cards that activate in that timing finish resolving.
+
+•	Example: If Dandylion is sent to the Graveyard during damage calculation by an activated effect and its effect that says “If this card is sent to the Graveyard: Special Summon 2 “Fluff Tokens” (Plant-Type/WIND/Level 1/ATK 0/DEF 0) in Defense Position” is activated, the effect of Injection Fairy Lily that says “If this card attacks or is attacked, during damage calculation (in either player’s turn): You can pay 2000 LP once per battle; this card gains 3000 ATK during that damage calculation only” cannot be activated in a chain after that other effect resolved as it specify a timing to be activated.
+
+Example: If during the Start of the Damage Step the effect of Tenpai Dragon Chundra that says “At the start of the Damage Step, if a monster battles: You can Special Summon 1 Level 4 or lower FIRE Dragon monster from your Deck, except "Tenpai Dragon Chundra".” Is activated and Special Summons Tenpai Dragon Paidra, the effect that says “If this card is Normal or Special Summoned: You can add to your hand or Set 1 "Sangen" Spell/Trap from your Deck.” can be activated as it doesn’t specify a timing to be activated.
+
+06.6.	During the Damage Step even if the number of legal attack target changes, a Battle Replay is not triggered.
+
+07. Start of the Damage Step
+
+07.1.	The Start of the Damage Step is the first part of the Damage Step.
+
+07.2.	Effects that activate or resolve “At the start of the Damage Step” can be activated or resolved during the Start of the Damage Step (older cards that activate or resolve “without applying damage calculation” also activate during this part of the Damage Step).
+
+07.3.	Effects that set, increase or decrease the ATK and/or DEF of monsters can still be activated during the Start of the Damage Step.
+
+07.4.	After the Start of the Damage Step ends, the Before Damage Calculation part starts.
+
+08. Before Damage Calculation
+
+08.1.	Before Damage Calculation is the second part of the Damage Step and occurs after the Start of the Damage Step.
+
+08.2.	If a face-down Monster battle it’s flipped to face-up Defense Position during this part, if that Monster has an effect that activated when it’s flipped face-up it does not activate yet. No cards or effect can be activated before the monster is flipped.
+
+08.3.	Effects that activate or resolve “Before damage calculation” can be activated or resolved during Before Damage Calculation.
+
+08.4.	Effects that set, increase or decrease the ATK and/or DEF of monsters can still be activated during Before Damage Calculation.
+
+08.5.	After the Before Damage Calculation ends, the Damage Calculation part starts.
+
+09. Damage Calculation
+
+09.1.	Damage Calculation is the third part of the Damage Step and occurs after Before Damage Calculation.
+
+09.2.	Effects that say they can be activated “during damage calculation” can be activated during Damage Calculation.
+
+09.3.	If both player during Damage Calculation pass priority the damage calculation is performed.
+
+09.4.	After damage is calculated during Damage Calculation, no cards or effects can be activated and After Damage Calculation immediately begin.
+
+09.5.	Monsters marked for destruction by battle are not sent to the Graveyard until the End of the Damage Step, but the result of the battle is determined in that moment and does not change under any circumstance.
+
+09.6.	If a monster marked for destruction by battle has a Continuous effect is stops applying immediately after it is marked for destruction.
+
+09.7.	A monster marked for destruction by battle cannot be targeted by cards or effects until it is sent to the Graveyard at the End of the Damage Step.
+
+09.8.	If an effect that says “if it would be destroyed, you can […] instead” is applied to a monster that would be marked for destruction by battle, it is not marked and will not be sent to the Graveyard during the End of the Damage Step.
+
+09.9.	An effect that says “if it would be destroyed, you can […] instead” can be applied to a monster being marked for destruction by battle only during the Damage Calculation part of the Damage Step, and cannot be applied at any other times.
+
+09.10.	While calculating damage during Damage Calculation if the attack target is in Attack Position compare the ATK of the attacking monster and the ATK of the attack target monster, the monster with the lower ATK is marked for destruction, also inflict damage equal to the difference to that monster’s controller. If the ATK is the same, no damage is inflicted and both monsters are destroyed at the end of that Damage Step. If the ATK of both monsters is 0, no damage is inflicted and neither monsters are marked for destruction.
+
+09.11.	While calculating damage during Damage Calculation if the attack target is in Defense Position, compare the ATK of the attacking monster and the DEF of the attack target monster. If the ATK is higher, the monster with the lower DEF is marked for destruction. If the DEF is higher, the player who attacked takes damage equal to the difference. If the ATK and DEF are equal, no damage is inflicted and neither monster is destroyed.
+
+09.12.	While calculating damage during Damage Calculation if the attack is a Direct Attack, inflict damage to the LP of the player that controls the attack target equal to the ATK of the attacking monster.
+
+09.13.	If damage calculation is performed the monsters are considered as “having battled”. If damage calculation is not performed the monsters are not treated as “having battled”.
+
+09.14.	The damage from effects that say “inflict battle damage” is not treated as effect damage, and it is treated as battle damage.
+
+09.15.	Effects that set, increase or decrease the ATK and/or DEF of monsters cannot be activated during Damage Calculation.
+
+09.16.	After the Damage Calculation ends, the After Damage Calculation part starts.
+
+10. After Damage Calculation
+
+10.1.	After Damage Calculation is the fourth part of the Damage Step and occurs after Damage Calculation.
+
+10.2.	Effects that say they can be activated “after damage calculation”, “when it inflicts battle damage to the opponent”, “when/if it is flipped face-up” and Flip Effects can be activated during After Damage Calculation.
+
+10.3.	After the After Damage Calculation ends, the End of the Damage Step part starts.
+
+11. End of the Damage Step
+
+11.1.	End of the Damage Step is the last part of the Damage Step and occurs after After Damage Calculation.
+
+11.2.	At the start of the End if the Damage Step all monsters marked for destruction are sent to the Graveyard, no cards or effects can be activated before this.
+
+11.3.	Effects that say they can be activated “when it is destroyed by battle and sent to the Graveyard” or “when it destroys an opponent’s monster by battle” can be activated during the End of the Damage Step.
+
+11.4.	Effects that are applied “until the end of the Damage Step” are applied until the Damage Step ends.
+
+11.5.	After the Damage Step ends, the Damage Step ends and the Battle Step begins.
+
+12. End Step
+
+12.1.	During the End Step attack cannot be declared.
+
+12.2.	During the End Step effects that activate or resolve “at the end of the Battle Phase” can be activated or resolved.
+
+12.3.	Effects that are applied “until the end of the Battle Phase” or “during the Battle Phase” are applied until the end of the End Step.
+
+12.4.	After the End Step of the Battle Phase ends the Main Phase 2 begins. A player cannot skip directly to the End Phase and the Main Phase 2 must be entered even if no actions are performed.
+
+13. End Phase
+
+13.1.	The End Phase is the last Phase of a turn, and it can be entered from Main Phase 1 or 2.
+
+13.2.	When both players agree to end the End Phase if the turn player has more than 6 cards in their hand they must discard cards from their hand so that they only have 6 cards in hand. If after discarding the turn player has still more than 6 cards in hand due to a card or effect this process is repeated until there are 6 or less cards in hand. After this the turn immediately ends and no cards or effects can be activated.
+
+13.3.	While discarding cards during the End Phase due to the turn player exceeding the maximum hand size no cards or effects can be activated except for cards or effect that trigger due to being discarded.
+
+13.4.	Effects that say “until the end of the turn” are applied until the End Phase ends.
+
+13.5.	After the End Phase ends, the turn immediately ends and the other player’s turn begins.
