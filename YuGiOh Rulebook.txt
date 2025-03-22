@@ -420,7 +420,7 @@ JRulebook66 (Not the right link TODO)
 
 210.6.	The turn player can set a Trap Card during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority.
 
-210.7.	To set a Trap Card, the player setting it places that TTrap Card face-down in an unoccupied Spell/Trap Zone from their hand.
+210.7.	To set a Trap Card, the player setting it places that Trap Card face-down in an unoccupied Spell/Trap Zone from their hand.
 
 211. Continuous Trap
 
@@ -446,17 +446,17 @@ JRulebook66 (Not the right link TODO)
 
 213.2.	A Normal Trap Card is sent to the Graveyard at the end of the Chain it was activated in.
 
-3. Summons
+6. Summons
 
-300. General
+600. General
 
-300.1.	A Summon is the only way to place a Monster in any Zone to a Monster Zone.
+600.1.	A Summon is the only way to place a Monster in any Zone to a Monster Zone.
 
-300.2.	The different Summons are: Normal/Tribute Summon, Flip Summon, Special Summon, Fusion Summon, Link Summon, Pendulum Summon, Ritual Summon, Synchro Summon and Xyz Summon.
+600.2.	The different Summons are: Normal/Tribute Summon, Flip Summon, Special Summon, Fusion Summon, Link Summon, Pendulum Summon, Ritual Summon, Synchro Summon and Xyz Summon.
 
-300.3.	All Summon that happen outside of a chain resolving create a Response Window where card or effects can be activated called the Summon Response Window.
+600.3.	All Summon that happen outside of a chain resolving create a Response Window where card or effects can be activated called the Summon Response Window.
 
-300.4.	In addition to the Summon Response Window there is an additional Response Window that happened while the Monster is being Summoned called the Summon Negation Window.
+600.4.	In addition to the Summon Response Window there is an additional Response Window that happened while the Monster is being Summoned called the Summon Negation Window.
 
 300.4a.	A Summon Negation Window doesn’t occur if the Summon is performed while a Chain is resolving.
 
@@ -738,7 +738,7 @@ DoubleSummon
 
 308.8.	If a card or effect prevents an Xyz Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Xyz Monster to be Summoned that player cannot try to performs an Xyz Summon to Summon that Xyz Monster by using those Monster(s) on the field as Xyz Material.
 
-4. Turns
+3. Turns
 
 400. General
 
@@ -937,3 +937,188 @@ Example: If during the Start of the Damage Step the effect of Tenpai Dragon Chun
 413.4.	Effects that say “until the end of the turn” are applied until the End Phase ends.
 
 413.5.	After the End Phase ends, the turn immediately ends and the other player’s turn begins.
+
+4. Zones and locations
+
+500. General
+
+500.1.	A Zone is the place a card or a token is while on the field, a card or a token on the field is always in a Zone. There are 5 types of Zones: Main Monster Zones, Extra Monster Zones, Spell/Trap Zones, Field Zone, Pendulum Zones.
+
+500.2.	Locations are the places cards can be during a duel. There are 7 locations a card can be in: Main Deck, Extra Deck, Hand, Field, Graveyard, Banishment and attached to an Xyz Monster as Xyz Material.
+
+500.3.	A public location is a location where every player can see the face of the cards or the Zone they occupy. The field, Graveyard, face-up Banishment and face-up Extra Deck are public locations. Private locations are locations where only the owner of the cards can look at the card’s faces. The Main Deck, hand, face-down banishment and face-down Extra Deck are private locations.
+
+500.4.	If a card would go into a Main Deck, Extra Deck, hand, Graveyard or Banishment other than its owner’s, it goes to its owner’s corresponding location.
+
+500.5.	A card that moved from one location to another becomes a new card.
+
+5. Effects
+
+501. Activating (TODO: maybe unite activating and activating an effect)
+
+501.1.	A card or effect can only be activated when its activation conditions are met, after the card is activated even if the conditions are not met anymore it will still resolve.
+
+501.2.	Activation legality
+
+501.1a.	A card or effect can only be activated if all mandatory actions to be performed at activation can be performed, all mandatory parts of the effect can be performed and if performing those effects will result in a change in the state of the game.
+
+501.1b.	An effect changes the state of the game if it performs one of the following actions: it changes the number of cards in the Main Deck, Extra Deck, hand, field, Graveyard or banishment; It flips a card in the Extra Deck, banishment of field from face-down position to face-up position and viceversa; it changes the battle position of a monster; it negates the effect or effects of a card; it modifies the ATK and/or DEF of a monster; it changes the Attribute and/or Types of a monster; it adds or removes an ability from a monster; it adds or removes an effect from a card; it makes a card unable to be activated, Summoned, Set, activated or used; It changes the rules of the duel either temporarily or permanently; it changes the LP of one or both players.  
+
+501.1c.	All actions performed at activation do not count as effects that changes the state of the game.
+
+501.1d.	The act of placing a Spell/Trap from the hand face-up on the field or flipping one from face-down to face-up while in the Spell/trap Zone or Field Zone to activate it and Normal, Quick-Play or Ritual Spells and Counter or Normal Traps being sent to the Graveyard at the end of the Chain they were activated in are not effects that change the state of the game, also if a card effect would prevent those cards from being sent to the Graveyard those cards can still be activated. 
+
+501.1e.	If a Spell/Trap being activated has no effect on activation, has an effect that would not change the state of the board or has an optional effect at activation that cannot be performed, that card can still be activated even if at the moment of activation, it would not change the state of the board.
+
+501.1f.	To activate a card or effect would perform multiple actions, every action must be able to be performed at activation and each effect has to affect the state of the game with the following 2 exceptions.
+
+501.1g.	A card or effect that includes an effect to take control of a monster while there is no unoccupied Monster Zone for that monster to be placed in or an effect to Summon a monster to the field while there is no unoccupied Monster Zone for that monster to be Summoned in, can be activated if as part of an action performed at activation or an effect part of the resolution a valid Monster Zone becomes unoccupied.
+Ruling15355
+
+501.1h.	One card “Interrupted Kaiju Slumber” can be activated even if that player or their opponent control a “Kaiju” monster.
+
+501.1i.	If a card effect makes a card(s) unable to be destroyed, banished, returned to the hand, returned to the deck, tribute or unaffected by some or all card effects, a card or effect that would try to perform one or more of those actions to one or more of those cards can still be activated even if at time of activation it would not change the state of the board.
+
+501.1j.	If a card effect that changes the location a card(s) is moved to after that card(s) leaves another location is active, a card or effect that would try to move that card(s) from one location to another can still be activated even if at the moment of activation that card(s) would not be sent to the location specified in the effect.
+
+•	Example: If a player controls a Floowandereeze & Robina with the effect “If this face-up card would leave the field, banish it instead.”, that player’s opponent can activate a Compulsory Evacuation Device with the effect “Target 1 monster on the field; return that target to the hand.” By targeting the Robina even though it will be banished and not returned to the hand.
+
+501.1k.	If a card effect forbids a player from Normal/Tribute Summoning/Setting, Special Summoning, destroying, banishing, returning to the hand, returning to the deck or tributing, a card or effect that would try to perform one or more of those actions cannot be activated even if thanks to an action performed at activation or as part of one of the effect before that action that card effect would not be applying in the moment the forbidden action would be performed. (TODO: find example)
+
+501.1l.	If a card effect makes it that a player can only activate a limited number of cards or effects that player cannot activate a card or effect if the number of card and effects activated while that effect was active exceeds the maximum number allowed. If the activation of a card or effect is negated it still counts toward the total. Only cards and effect activated while the card effect is active are counted towards the total.
+
+501.3.	If the card or effect activated has actions to be performed at activation, (such as costs, targets, declaring card names/Attributes/Types and selecting which effect to activate) all actions must be performed in the order they are written. All mandatory actions must be performed, while any optional action can be performed. A player cannot perform an action in a way that would make the activation illegal or the resolution illegal, they also cannot perform an additional action or not perform one if doing or not doing so would make the activation or the resolution illegal. If by performing an action a later action that needs to be performed has more or less options the card can still be activated as long as there is at least one way to perform each action, also the new options to perform the action can be performed. If performing one or more actions to be performed at activation in some way would make following actions to be performed at activation impossible to be performed or it would make performing one or more actions performed at resolution result in no changes to the boardstate, that action cannot be performed in that way. (TODO: separate this in multiple points, add if shifter cannot sent to gy as cost)
+ Ruling11724 Ruling17396
+
+•	Example: If a player tries to activate Rikka Glamour which says “When you activate this card, you can also Tribute 1 Plant monster; add 1 "Rikka" monster from your Deck to your hand, then, if you Tributed a monster when you activated this card, add 1 Plant monste”, if they only have 1 Rikka monster in their Deck and no other Plant monsters they cannot choose to pay the additional cost to activate the card.
+
+•	Example: If a player tries to activate Crusadia Vanguard which says “When you activate this card: You can also Tribute 1 "Crusadia" or "World Legacy" monster; if you did, Special Summon 1 "Crusadia" or "World Legacy" monster, with a different original name, from your Deck or GY.” While they have all Main Monster Zone occupied, they must pay the additional cost to activate the card. TODO: Example is wrong
+
+•	Example: If a player controls a Daigusto Emeral while they have only 2 monster in their Graveyard and neither is a non-Effect Monster that player cannot activate the effect that says “Once per turn: You can detach 1 material from this card, then activate 1 of these effects; •︎ Target 3 monsters in your GY; shuffle all 3 into the Deck, then draw 1 card. •︎ Target 1 non-Effect Monster in your GY; Special Summon that target.” even if they can detach a monster or a non-effect monster. If a player has 2 monsters in the Graveyard and at least 1 is a non-Effect Monster, they can activate the effect as they can choose the “Target 1 non-Effect Monster in your GY” effect. If when detaching the material the detached material is a monster and it is sent to the Graveyard, as there are now 3 monsters in the Graveyard that player can choose the “Target 3 monsters in your GY” effect.
+
+501.4.	If a card or effect provides an alternative way to pay for a cost the player chooses if they pay using the alternative method in the moment they need to pay the cost. If multiple cards or effect would allow a cost to be paid using an alternative method a player can only choose one of those methods. If a cost is paid using an alternative method the original cost is not paid but is still considered to have been paid. A player cannot use an alternative method to pay for a cost or not use it if by doing so it would make the activation illegal or it would put their Life Points to 0.
+
+•	Example: If a player is trying to activate the effect of Ursarctic Megabilis that says “You can Tribute 1 other Level 7 or higher monster from your hand; Special Summon this card from your hand” while they control an Ursarctic Big Dipper that says “Once per turn, if your "Ursarctic" monster would Tribute a monster(s) to activate its effect, you can banish 1 Level 7 or higher "Ursarctic" monster from your GY instead.” And they have an Ursarctic Drytron in their Graveyard with the effect “If you would Tribute a monster(s) to activate an "Ursarctic" or "Drytron" monster's effect, you can banish this card from your GY instead.”, that player can choose to apply neither of these effects or either one but they cannot choose to apply both at the same time and if they choose to apply one of these alternative methods they do not tribute a monster from their hand.
+
+•	Example: A player cannot activate Ballista Squad’s effect that says “Tribute 1 monster, then target 1 card your opponent controls; destroy it.” by tributing an opponent’s monster using the effect of Lair of Darkness that says “Once per turn, if you would Tribute a monster you control to activate a card effect, you can Tribute 1 DARK monster your opponent controls, even though you do not control it.” If the opponent control only that monster.
+
+501.5.	If a card or effect adds an additional cost to be paid to activate that card those cost are paid before any other cost in any order (can’t find anything conclusive about this yet). If paying an additional cost would make the activation illegal or it would put a player’s Life Points to 0 that card or effect cannot be activated.
+
+501.6.	After every cost is paid the card or effect is added to the Chain if there is currently no Chain, one is created. The card or effect’s Chain Link number is equal to the number of cards and effects currently on the Chain including that card or effect.
+
+502. Activating cards
+
+502.1.	Activating a card is the act of placing a Spell/Trap from the hand to the field or flipping it face-up and putting it on the Chain so that it may resolve and have its effects if any.
+
+502.2.	To activate a card, the player places it from their hand face-up in an unoccupied Spell/Trap Zone or in a Field Zone or flips it from face-down to face-up while it is in a Spell/Trap Zone or in a Field Zone.
+
+502.3.	When activating a card, an effect is also activated at the same time, it the card doesn’t have an effect at activation that effect will perform no actions at resolution. The activation of the card and the activation of the effect are on the same Chain Link. If the effect is negated the activation of the card is not negated, if the activation of the card is negated the effect is also negated.
+
+502.4.	If the activation of a Continuous, Equip or Field Spell or a Continuous Trap is negated, that card is sent to the Graveyard at the end of the Chain it was activated in.
+
+502.5.	A player can only activate card on their field that they control and the cards in their hand.
+
+503. Activated effects
+
+503.1.	Activating an effect is the act of declaring to activate an effect present om a card and putting it on the chain so that it may resolve and have its effect if any.
+
+503.2.	Activated effects are written as “[Activation conditions (if any)]: [Actions at activations (if any)]; [Effect].”
+
+503.2a.	If an effect has no colon or semi-colon it is not an activated effect with one exception. Spell/Trap effects that happen at activation may not have any activation conditions of actions at activations but they are still activated effect.
+ 
+•	Example: Upstart Goblin has the effect “Draw 1 card, then your opponent gains 1000 LP:” this effect starts a chain even if it doesn’ have a colon or a semi-colon.”
+
+503.2b.	If an effect has a colon but no semi-colon, it is an activated effect but it has no actions to be performed at activation.
+
+503.2c.	If an effect has a semi-colon but no colon, it is an activated effect but has no activation conditions.
+
+503.3.	Activated effects always activate on the field unless another location where they can be activated is specified in the Activation conditions or if the effect includes moving the card activating the effect from a location that is not the field to another location.
+
+•	Example: the effect of Adamancipator Analyzer that says ”If only your opponent controls a monster: You can Special Summon this card from your hand.” can only be activated only while it’s in the hand even if that is not specified in the Activation conditions.
+
+503.4.	An activated effect if an Ignition, Fast or Trigger effect.
+
+504. Ignition effects
+
+504.1.	Ignition effects are effects that can only be activated during that effect’s controller Main Phase while there is no Chain creating or resolving, it is not during a response window and that player has priority.
+
+504.2.	Ignition effects are Spell Speed 1.
+
+504.3.	Ignition effects can never be Chain Link 2.
+
+504.4.	A monster’s activated effect is an Ignition effect if it doesn’t have any Activation conditions or if it’s Activation conditions include “During your Main Phase”. An activated effect is not an Ignition effect if it’s Activation conditions starts with “When” or “If”, or if it’s Activation conditions contain “(Quick Effect)”. Cards printed before Maximum Crisis: Special Edition instead of “(Quick Effect)” will have “During either player’s [turn, Phase, Step]” in the Activation conditions or “(this is a Quick Effect)” at the end of the effect, these wordings work in the same way.
+
+504.5.	Activating a Spell Card except a Quick-Play Spell and activating a Spell effect that is not a Trigger effect are Ignition effects.
+
+504.6.	Unless otherwise specified Ignition effects can be activated as many time as possible during a Main Phase.
+
+505. Fast effects
+
+505.1.	Fast effects are effects that can be activated at any time as long as there is not a Chain resolving and the player activating has priority.
+
+505.2.	Fast effects are Spell Speed 2 except for activating a Counter Trap Card, which is Spell Speed 3.
+
+505.3.	An activated effect is a Fast effect if its Activation conditions include “(Quick Effect)”. Cards printed before Maximum Crisis: Special Edition instead of “(Quick Effect)” will have “During either player’s [turn, Phase, Step]” in the Activation conditions or “(this is a Quick Effect)” at the end of the effect, these wordings work in the same way.
+
+505.4.	Activating a Quick-Play Spell Card, activating a Trap Card and activating a Trap Effect that is not a Trigger effect are Fast effects.
+
+506. Trigger effects
+
+506.1.	Trigger effects are effect that can only be activated in the moment after a condition is met while there is not a Chain resolving and the player activating has priority.
+
+506.2.	Trigger effects are Spell Speed 1.
+
+506.3.	A monster’s activated effect is not a Trigger effect if the Activation conditions include “(Quick Effect)”. Cards printed before Maximum Crisis: Special Edition instead of “(Quick Effect)” will have “During either player’s [turn, Phase, Step]” in the Activation conditions or “(this is a Quick Effect)” at the end of the effect, these wordings work in the same way (See 505.3). 
+
+506.4.	A Spell/Trap’s activated effect is not a Trigger effect if it’s currently face-down on the field (See 505.4).
+
+506.5.	An activated effect is a Trigger effect if its Activation conditions include “During [the, your, your opponents] [Phase]” except for the Main Phase and Battle Phase, “At the start of [the, your, your opponents] Battle Phase” or “At the end of [the, your, your opponents] Battle Phase. This effects are Phase specific Trigger effects.
+
+506.6.	An activated effect is a Trigger effect if its Activation conditions start with “When” or “If”.
+
+506.7.	When a Trigger effect that starts with “When” meets its Activation conditions it can activate during the next Chain only if no more actions occur after the conditions have been met. Older cards with mandatory Trigger effects may start with “When”, they are treated as starting with “If” and so do not follow this rule but follow the next rule (506.8).
+
+506.8.	When a Trigger effect that starts with “If” meets its Activation conditions it will remember that it can be activated until the next Chain even if other actions occur after the conditions have been met.
+
+506.9.	If a Trigger effect meets its Activation condition multiple times before its able to activate, that effect can be activated for each time it met its Activation conditions.
+
+•	Example: If a player controls a That’s 10! With the effect “Each time a card or effect is activated, except "That's 10!": You can place 1 Access Counter on this card (max. 10).” And they activate an Upstart Goblin and activate as Chain Link 2 a Chain Strike, after those two effects resolve that player can activate the effect of That’s 10! two times.
+
+506.10.	If an action just finished and there is no Chain resolving and there are one or more Trigger effects that met their conditions (except for Phase specific Trigger effects) and can be activated, they can all be placed on a Chain in the following order.
+
+506.10a.	First the mandatory Trigger effects of the turn player are placed on the Chain in any order they want. If there are no mandatory effects this step is skipped.
+
+506.10b.	Second the mandatory Trigger effects of the non-turn player are placed on the Chain in any order they want. If there are no mandatory effects this step is skipped.
+
+506.10c.	Third the turn player places any number of optional Trigger effects on the Chain in any order they want. Even if there are optional Trigger effect to be activated the turn player can decide to not activate some of those effect or even decide to not activate any effect. If there are no optional Trigger effects or the turn player activate no effects this step is skipped.
+
+506.10d.	Fourth the non-turn player places any number of optional Trigger effects on the Chain in any order they want. Even if there are optional Trigger effect to be activated the non-turn player can decide to not activate some of those effect or even decide to not activate any effect. If there are no optional Trigger effects or the non-turn player activate no effects this step is skipped.
+
+506.10e.	Lastly the normal rules for activating effects on the Chain begin applying and the player that has priority is the player who did not activate the last effect on the Chain, if no effects where activated priority goes to the turn player.
+
+506.11.	 Phase specific Trigger effects can be activated at any point during that Phase or step as there is not a Chain being created or resolving and the player activating has priority.
+
+506.12.	Phase specific Trigger effects can only be activated as Chain Link 1, if multiple effect can be activated they need to be activated in separate chains.
+
+506.13.	If there is a mandatory Phase specific Trigger effect that has to be activated, it can be activated any time during that Phase or step and does not need to be the first action during that Phase or step. Before proceeding to the next Phase or step it needs to be activated and resolved even if both player agree to change Phase or step.
+
+507. Continuous effects
+
+507.1.	Continuous effects are effects that are applied all the time or while a condition is met. 
+
+507.2.	Continuous effects apply only while the card is on the field unless another location is specified on the card.
+
+507.3.	If multiple Continuous effects are applying at the same time they apply in the order they were Summoned, resolved or put in the location where their effect is applied.
+
+507.4.	If a Continuous effect applies only when a condition is met it is not applied after other effects that were Summoned, resolved or were put in the location where their effect before this effect applied and after the card that has this effect was Summoned, resolved or put in the location where their effect is applied.
+
+•	Example: During their turn a player controls a face-up Obsidim, the Ashened City with the Continuous effect “Face-up Special Summoned monsters your opponent controls become Pyro during your turn only.” And the opponent controls a face-up Zombie World with the Continuous effect “All monsters on the field and in the GYs become Zombie monsters.“ that was activated after Obsidim. Since Zombie World is applied last all monsters on the field become Zombie monsters even if Obsidim is applying. If that player passes the turn and so does the opponent, the Special Summoned monsters on the opponent’s field will still be Zombies even after Obsidim stopped applying during the opponent’s turn and started reapplying during their turn.
+
+507.5.	A Continuous effect that sets the ATK and/or DEF of itself to a specific value based on information of its Summon will not apply if it’s negated or another effect applied later sets the ATK and/or DEF of that monster to a specific value. Also if the effect later stops being negated it will set the ATK and/or DEF to 0 instead of the previous value.
+Ruling22618
+
+•	Example: A player controls a Cyber Eltanin with the Continuous effect “This card's ATK/DEF become the number of monsters banished for its Special Summon x 500” that was Summoned banishing 2 monsters, its ATK/DEF is currently 1000. If a card effect negates the effects of Eltanin, its ATK/DEF becomes 0. If that card effect stops applying the ATK/DEF of Eltanin remains 0 and does not return to 1000.
+
+•	Example: A player controls a Chimeratech Fortress Dragon with the Continuous effect “The original ATK of this card becomes 1000 x the number of materials used for its Special Summon” that was Summoned using 2 monsters as material, its ATK is 2000. If Life Hack is activated with the effect that says “Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your opponent's current LP until the end of this turn.” targeting the Chimeratech its attack becomes equal to the opponent’s LP. After the turn ends and Life Hack stops applying the ATK of Chimeratech returns to 2000.
+
+507.6.	If a non-Continuous effect that changes a property of a card that is being cha
