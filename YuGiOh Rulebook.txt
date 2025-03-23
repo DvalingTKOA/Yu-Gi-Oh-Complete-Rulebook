@@ -10,17 +10,17 @@ Contents
 200.	General
 201.	Monster
 202.	Main Deck Monster (Unofficial term)
-202.0.	Effect 
-202.1.	Flip
-202.2.	Gemini
-202.3.	Normal
-202.4.	Pendulum
-202.5.	Ritual
-202.6.	Spirit
-202.7.	Toon
-202.8.	Tuner
-202.9.	Union
-202.10.	Special Summon
+202.6.	Effect 
+202.7.	Flip
+202.8.	Gemini
+202.9.	Normal
+202.10.	Pendulum
+202.11.	Ritual
+202.12.	Spirit
+202.13.	Toon
+202.14.	Tuner
+202.15.	Union
+202.16.	Special Summon
 203.	Extra Deck Monster (Unofficial term)
 203.5.	Fusion
 203.6.	Link
@@ -37,7 +37,6 @@ Contents
 212.	Continuous Trap
 213.	Counter Trap
 214.	Normal Trap
-215.	
 3. Turns
 300.	General
 301.	Draw Phase
@@ -73,6 +72,9 @@ Contents
 606.	Pendulum Summon
 607.	Synchro Summon
 608.	Xyz Summon
+
+
+
 2. Card Types
 
 200. General
@@ -138,7 +140,7 @@ Ruling163
 
 201.8f.	While in face-down defense it’s placed horizontally in a monster zone with the front of the card facing down. All the characteristics of the card are known only to the controller of the card.
 
-202. Main Deck Monster (Unofficial term)
+202. Main Deck Monster (Unofficial term) (TODO: remove Main/Extra monster and separate each ability)
 
 202.1.	A Main Deck Monster is a monster that resides in the Main Deck at the start of the duel, they are Monsters with only the following abilities: Effect, Flip, Gemini, Normal, Pendulum, Ritual, Spirit, Toon, Tuner, Union. The OCG Special Summon Monster is included here. If a Monster has an ability not mentioned here it’s an Extra Deck Monster. 
 
@@ -854,26 +856,59 @@ Ruling15355
 
 506.13.	If there is a mandatory Phase specific Trigger effect that has to be activated, it can be activated any time during that Phase or step and does not need to be the first action during that Phase or step. Before proceeding to the next Phase or step it needs to be activated and resolved even if both player agree to change Phase or step.
 
-507. Continuous effects
+507. Resolving cards and effects
 
-507.1.	Continuous effects are effects that are applied all the time or while a condition is met. 
+507.1.	After a Chain is created and both player pass priority once the Chain begins resolving. All effects in the chain are resolved starting from the last effect added to the Chain and going backwards. 
 
-507.2.	Continuous effects apply only while the card is on the field unless another location is specified on the card.
+507.2.	After a Chain begins resolving no cards or effects can be activated until all effects on the Chain have finished resolving.
 
-507.3.	If multiple Continuous effects are applying at the same time they apply in the order they were Summoned, resolved or put in the location where their effect is applied.
+507.3.	To resolve an effect, the player activating it performs the actions written on the effect in the order they are written.
 
-507.4.	If a Continuous effect applies only when a condition is met it is not applied after other effects that were Summoned, resolved or were put in the location where their effect before this effect applied and after the card that has this effect was Summoned, resolved or put in the location where their effect is applied.
+507.4.	If the resolution of an effect depends on a choice made at activation of the effect, the player activating must perform the actions based on the choice made at activation. If one or more actions that would need to be performed cannot be performed the player cannot change the choice at resolution even if performing another option would be possible.
+
+507.5.	If the resolution of an effect depends on a choice not made at activation, the player activating chooses in the moment immediately before performing the action which option they want to choose. If one or more of those options cannot be performed the player cannot choose them and must choose an option that is possible to perform. If there are no options that can be perform the player chooses no option and this part of the effect is not performed.
+
+507.6.	Sometime due to some actions happening between when an effect was activated and when it resolves, some actions of that effect may fail to be performed.
+
+507.6a.	If an effect tries to destroy a card(s) the effect is considered to be successful if at least 1 card is destroyed.
+
+507.6b.	If an effect tries to move a ca
+
+507.7.	If an effect includes multiple actions, but one or more of those actions fail to be performed or the effect includes one or more optional actions and the player chooses to not perform them the other actions of the effect are performed using the following rules.
+
+507.7a.	If 2 actions in an effect are united with the conjunction “also”, both actions are unrelated from each other. If the first action is not successfully performed the second action is still performed, if the second action is not successfully performed the first action is still performed. Both actions are treated as having occurred simultaneously, even if the actions are performed one after the other.
+
+507.7b.	If 2 actions in an effect are united with the conjunction “also, after that”, both actions will be performed independently of each other. If the first action is not successfully performed the second action is still performed, if the second action is not successfully performed the first action is still performed. The actions are treated as having occurred sequentially and not at the same time.
+
+507.7c.	If 2 actions in an effect are united with the conjunction “and”, both action must be successfully performed to perform those actions. If the first action is not successfully performed, the second action is not performed, if the second action is not successfully performed the first action is not performed. Both actions are treated as having occurred simultaneously, even if the actions are performed one after the other.
+
+507.7d.	If 2 actions in an effect are united with the conjunction “and if you do”, the first action must be successfully performed in order to perform the second one. If the first action is not successfully performed the second one cannot be performed, if the second action cannot be performed the first one is still performed. Both actions are treated as having occurred simultaneously, even if the actions are performed one after the other.
+
+507.7e.	If 2 actions in an effect are united with the conjunction “Then”, the first action must be successfully performed in order to perform the second one. If the first action is not successfully performed the second one cannot be performed, if the second action is not successfully performed the first one is still performed. The actions are treated as having occurred sequentially and not at the same time.
+
+507.7f.	If an effect that includes an optional action(s) is activated and the player activating it chooses to not apply the optional actions(s), the effect is stopped immediately and no further part of the effect are performed.
+
+508. Continuous effects
+
+508.1.	Continuous effects are effects that are applied all the time or while a condition is met. 
+
+508.2.	Continuous effects apply only while the card is on the field unless another location is specified on the card.
+
+508.3.	If multiple Continuous effects are applying at the same time they apply in the order they were Summoned, resolved or put in the location where their effect is applied.
+
+508.4.	Continuous effects that set the ATK and/or DEF of a monster to a specific value always apply before effects that increase or decrease ATK and/or DEF by some value.
+
+508.5.	If a Continuous effect applies only when a condition is met it is not applied after other effects that were Summoned, resolved or were put in the location where their effect before this effect applied and after the card that has this effect was Summoned, resolved or put in the location where their effect is applied.
 
 •	Example: During their turn a player controls a face-up Obsidim, the Ashened City with the Continuous effect “Face-up Special Summoned monsters your opponent controls become Pyro during your turn only.” And the opponent controls a face-up Zombie World with the Continuous effect “All monsters on the field and in the GYs become Zombie monsters.“ that was activated after Obsidim. Since Zombie World is applied last all monsters on the field become Zombie monsters even if Obsidim is applying. If that player passes the turn and so does the opponent, the Special Summoned monsters on the opponent’s field will still be Zombies even after Obsidim stopped applying during the opponent’s turn and started reapplying during their turn.
 
-507.5.	A Continuous effect that sets the ATK and/or DEF of itself to a specific value based on information of its Summon will not apply if it’s negated or another effect applied later sets the ATK and/or DEF of that monster to a specific value. Also if the effect later stops being negated it will set the ATK and/or DEF to 0 instead of the previous value.
+508.6.	A Continuous effect that sets the ATK and/or DEF of itself to a specific value based on information of its Summon will not apply if it’s negated also if the effect later stops being negated it will set the ATK and/or DEF to 0 instead of the previous value.
+
+•	Example: A player controls a Cyber Eltanin with the Continuous effect “This card's ATK/DEF become the number of monsters banished for its Special Summon x 500” that was Summoned banishing 2 monsters, its ATK/DEF is currently 1000. If a card effect negates the effects of Eltanin, its ATK/DEF becomes 0. If that card effect stops applying the ATK/DEF of Eltanin remains 0 and does not return to 1000. 
+508.7.	If a non-Continuous effect that changes/sets a property of a card is applied to a card that is already modified by one or more Continuous effects, those Continuous effects stop applying until the non-Continuous effect stops applying.
 Ruling22618
 
-•	Example: A player controls a Cyber Eltanin with the Continuous effect “This card's ATK/DEF become the number of monsters banished for its Special Summon x 500” that was Summoned banishing 2 monsters, its ATK/DEF is currently 1000. If a card effect negates the effects of Eltanin, its ATK/DEF becomes 0. If that card effect stops applying the ATK/DEF of Eltanin remains 0 and does not return to 1000.
-
 •	Example: A player controls a Chimeratech Fortress Dragon with the Continuous effect “The original ATK of this card becomes 1000 x the number of materials used for its Special Summon” that was Summoned using 2 monsters as material, its ATK is 2000. If Life Hack is activated with the effect that says “Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your opponent's current LP until the end of this turn.” targeting the Chimeratech its attack becomes equal to the opponent’s LP. After the turn ends and Life Hack stops applying the ATK of Chimeratech returns to 2000.
-
-507.6.	If a non-Continuous effect that changes a property of a card that is being cha
 
 6. Summons
 
@@ -891,7 +926,7 @@ Ruling22618
 
 600.4b.	An effect that performs a Summon via game mechanics will cause a Summon Negation Window if it was Chain Link 1 in a Chain. A card or effect will perform a Summon via game mechanics if it specifies that the Summon will occur “immediately after this [card/effect] resolves”.
 
-600.4c.	During the Summon Negation Window the Monster being Summoned is not treated as being in any Zone or Location.
+600.4c.	During the Summon Negation Window the Monster being Summoned is not treated as being in any Zone or Location. The Zone where the monster would be Summoned cannot be used to Summon another monster even if the monster is yet to be Summoned.
 
 600.4d.	A Monster being Summoned cannot activate its effects, its continuous effects do not apply and its substitution effects cannot be applied.
 
@@ -899,15 +934,13 @@ Ruling22618
 
 600.4f.	The first effect activated during a Summon Negation Window must be an effect that would negate that Summon.
 
-600.4g.	After the first Chain Link all other cards and effects can be activated as long as they are the same Spell Speed or higher.
+600.4g.	After the first Chain Link all other cards and effects can be activated.
 
-600.4h.	All cards and effects that negate a Summon are Spell Speed 2 or higher.
+600.4h.	A card or effect can negate a Summon if it can be activated when the monster “would be […] Summoned” and if it uses the term negate.
 
-600.4i.	A card or effect can negate a Summon if it can be activated when the monster “would be […] Summoned” and if it uses the term negate.
+600.4i.	After the Chain resolves if the Summon is not negated the Monster is immediately Summoned and no other card or effect can be activated.
 
-600.4j.	After the Chain resolves if the Summon is not negated the Monster is immediately Summoned and no other card or effect can be activated or applied at that moment.
-
-600.4k.	If the Summon is negated the Monster is sent to the Graveyard if possible and gameplay continues as normal.
+600.4j.	If the Summon is negated the Monster is sent to the Graveyard, no Summon Response Window occurs and the Duel proceeds as normal.
 601. Normal/Tribute Summon
 
 601.1.	A Normal/Tribute Summon is the process of Summoning a Monster from the hand, or the Monster Zone in the case of a Gemini Monster in a Monster Zone treated as a Normal Monster, to a Main Monster Zone.
