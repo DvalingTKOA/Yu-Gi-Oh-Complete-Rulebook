@@ -320,7 +320,7 @@ JRulebook66 (Not the right link TODO)
 
 203.6a.	Link Monsters are Special Summon Monsters and the method to Properly Summon a Link Monster is a Link Summon.
 
-203.6b.	Link Monsters have a LINK Rating from 1 to 8 and Don’t have a Level or a Rank.
+203.6b.	Link Monsters have a LINK Rating from 1 to 8 and don’t have a Level or a Rank.
 
 203.6c.	Link Monsters do not have DEF and can only be in face-up attack position while on the field.
 
@@ -344,17 +344,15 @@ JRulebook66 (Not the right link TODO)
 
 203.6n.	2 Monsters are Co-Linked if both of them are Link Monsters and they both point to each other.
 
-203.6p.	Link Monsters can never be in face-up defense position or face-down position.
+203.6o.	If an effect would change the position of a Link Monster nothing happens.
 
-203.6q.	If an effect would change the position of a Link Monster nothing happens.
+203.6p.	A player cannot activate an effect if that effect would change the position of only Link Monsters.
 
-203.6r.	A player cannot activate an effect if that effect would change the position of only Link Monsters.
+203.6q.	A player cannot target a Link Monster with an effect that would change its position.
 
-203.6s.	A player cannot target a Link Monster with an effect that would change its position.
+203.6r.	A Link Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Link Monsters do not have a Level. Link Monsters can be used as material for a Fusion Summon or a Link Summon.
 
-203.6t.	A Link Monster cannot be used as material for a Synchro Summon or an Xyz Summon as Link Monsters do not have a Level. Link Monsters can be used as material for a Fusion Summon or a Link Summon.
-
-203.6u.	A Link Monster’s border is Dark Blue with a hexagonal pattern.
+203.6s.	A Link Monster’s border is Dark Blue with a hexagonal pattern.
 
 203.7.	Synchro
 
@@ -716,7 +714,7 @@ Example: If during the Start of the Damage Step the effect of Tenpai Dragon Chun
 
 501.1a.	A card or effect can only be activated if all mandatory actions to be performed at activation can be performed, all mandatory parts of the effect can be performed and if performing those effects will result in a change in the state of the game.
 
-501.1b.	An effect changes the state of the game if it performs one of the following actions: it changes the number of cards in the Main Deck, Extra Deck, hand, field, Graveyard or banishment; It flips a card in the Extra Deck, banishment of field from face-down position to face-up position and viceversa; it changes the battle position of a monster; it negates the effect or effects of a card; it modifies the ATK and/or DEF of a monster; it changes the Attribute and/or Types of a monster; it adds or removes an ability from a monster; it adds or removes an effect from a card; it makes a card unable to be activated, Summoned, Set, activated or used; It changes the rules of the duel either temporarily or permanently; it changes the LP of one or both players.  
+501.1b.	An effect changes the state of the game if it performs one of the following actions: it changes the number of cards in the Main Deck, Extra Deck, hand, field, Graveyard or banishment; It flips a card in the Extra Deck, banishment of field from face-down position to face-up position and vice versal; it changes the battle position of a monster; it negates the effect or effects of a card; it modifies the ATK and/or DEF of a monster; it changes the Attribute and/or Types of a monster; it adds or removes an ability from a monster; it adds or removes an effect from a card; it makes a card unable to be activated, Summoned, Set, activated or used; It changes the rules of the duel either temporarily or permanently; it changes the LP of one or both players.  
 
 501.1c.	All actions performed at activation do not count as effects that changes the state of the game.
 
@@ -870,9 +868,17 @@ Ruling15355
 
 507.6.	Sometime due to some actions happening between when an effect was activated and when it resolves, some actions of that effect may fail to be performed.
 
-507.6a.	If an effect tries to destroy a card(s) the effect is considered to be successful if at least 1 card is destroyed.
+507.6a.	If an effect tries to destroy or tribute a card(s), the effect is considered to be successful if at least 1 card is destroyed or tributed. 
 
-507.6b.	If an effect tries to move a ca
+507.6b.	If an effect tries to move a card(s) from a zone or location to another zone or location, the effect is considered to be successful if at least 1 card is moved to the specified zone or location. 
+
+507.6c.	If an effect that tries to destroy or tribute a card(s) specifies that “every”, “all”, “both” cards must be destroyed or tributed, its successful only if every card is destroyed or tributed.
+
+507.6d.	If an effect that tries to move a card(s) from a zone or location to another zone or location specifies that “all”, “both”, “every” cards must be moved, its successful only if every card is moved to the specified zone or location.
+
+507.6e.	If an effect that tries to move a card(s) from a location to the Deck moves those card(s) to the Extra Deck instead it is still treated as being successful.
+
+507.6f.	If a card tries to increase or decrease LP/Level/Rank/Link Rating/ATK/DEF by 0 it is not treated as being increased or decreased and that effect is not successful.
 
 507.7.	If an effect includes multiple actions, but one or more of those actions fail to be performed or the effect includes one or more optional actions and the player chooses to not perform them the other actions of the effect are performed using the following rules.
 
@@ -888,59 +894,87 @@ Ruling15355
 
 507.7f.	If an effect that includes an optional action(s) is activated and the player activating it chooses to not apply the optional actions(s), the effect is stopped immediately and no further part of the effect are performed.
 
-508. Continuous effects
+508. Non-Activated effects
 
-508.1.	Continuous effects are effects that are applied all the time or while a condition is met. 
+508.1.	Non-Activated effects are effects that do not need to be activated to be used. They either apply continuously or can be applied without being activated.
 
-508.2.	Continuous effects apply only while the card is on the field unless another location is specified on the card.
+508.2.	Non-Activated effect include Continuous effects and Unclassified effects.
 
-508.3.	If multiple Continuous effects are applying at the same time they apply in the order they were Summoned, resolved or put in the location where their effect is applied.
+508.3.	Unclassified effects will be divided in the following categories: Substitution effects, Non-Activated Ignition effects, effect that can apply a permanent effect on themselves while not on the field.
 
-508.4.	Continuous effects that set the ATK and/or DEF of a monster to a specific value always apply before effects that increase or decrease ATK and/or DEF by some value.
+509. Continuous effects
 
-508.5.	If a Continuous effect applies only when a condition is met it is not applied after other effects that were Summoned, resolved or were put in the location where their effect before this effect applied and after the card that has this effect was Summoned, resolved or put in the location where their effect is applied.
+509.1.	Continuous effects are effects that modify the characteristics of cards, the control of cards, affects a player(s) or the rules of the game that applied all the time or while a condition is met. 
+
+509.2.	Continuous effects apply only while the card is on the field.
+
+509.3.	If multiple Continuous effects are applying at the same time they apply in the order they were Summoned, resolved or put in the location where their effect is applied.
+
+509.4.	Continuous effects that set the ATK and/or DEF of a monster to a specific value always apply before effects that increase or decrease ATK and/or DEF by some value.
+
+509.5.	If a Continuous effect applies only when a condition is met it is not applied after other effects that were Summoned, resolved or were put in the location where their effect before this effect applied and after the card that has this effect was Summoned, resolved or put in the location where their effect is applied.
 
 •	Example: During their turn a player controls a face-up Obsidim, the Ashened City with the Continuous effect “Face-up Special Summoned monsters your opponent controls become Pyro during your turn only.” And the opponent controls a face-up Zombie World with the Continuous effect “All monsters on the field and in the GYs become Zombie monsters.“ that was activated after Obsidim. Since Zombie World is applied last all monsters on the field become Zombie monsters even if Obsidim is applying. If that player passes the turn and so does the opponent, the Special Summoned monsters on the opponent’s field will still be Zombies even after Obsidim stopped applying during the opponent’s turn and started reapplying during their turn.
 
-508.6.	A Continuous effect that sets the ATK and/or DEF of itself to a specific value based on information of its Summon will not apply if it’s negated also if the effect later stops being negated it will set the ATK and/or DEF to 0 instead of the previous value.
+509.6.	A Continuous effect that sets the ATK and/or DEF of itself to a specific value based on information of its Summon will not apply if it’s negated also if the effect later stops being negated it will set the ATK and/or DEF to 0 instead of the previous value.
 
 •	Example: A player controls a Cyber Eltanin with the Continuous effect “This card's ATK/DEF become the number of monsters banished for its Special Summon x 500” that was Summoned banishing 2 monsters, its ATK/DEF is currently 1000. If a card effect negates the effects of Eltanin, its ATK/DEF becomes 0. If that card effect stops applying the ATK/DEF of Eltanin remains 0 and does not return to 1000. 
-508.7.	If a non-Continuous effect that changes/sets a property of a card is applied to a card that is already modified by one or more Continuous effects, those Continuous effects stop applying until the non-Continuous effect stops applying.
+509.7.	If a non-Continuous effect that changes/sets a property of a card is applied to a card that is already modified by one or more Continuous effects, those Continuous effects stop applying until the non-Continuous effect stops applying.
 Ruling22618
 
 •	Example: A player controls a Chimeratech Fortress Dragon with the Continuous effect “The original ATK of this card becomes 1000 x the number of materials used for its Special Summon” that was Summoned using 2 monsters as material, its ATK is 2000. If Life Hack is activated with the effect that says “Target 1 face-up monster on the field; any damage your opponent takes this turn is halved, also that monster's ATK becomes equal to your opponent's current LP until the end of this turn.” targeting the Chimeratech its attack becomes equal to the opponent’s LP. After the turn ends and Life Hack stops applying the ATK of Chimeratech returns to 2000.
+
+510. Substitution Effects
+
+510.1.	Substitution Effect are effect that can be applied when an action would be perform to replace or partially replace that action with another.
+
+510.2.	Non-Activated Effects that use the word ”instead” are Substitution Effects.
+
+510.3.	Substitution Effects can be applied at any point the action it wants to substitute would happen, even while activating or resolving a card or effect.
+
+510.4.	If a player can apply multiple Substitution Effects to the same action, that player cannot choose to apply more than one but they can choose to apply none.
+
+510.5.	To apply a Substitution Effect all part of the effect must be able to be performed, if the entire effect cannot be applied at the time the action would occur the effect cannot be applied.
+
+510.6.	A player is never forced to apply a Substitution Effect.
+
+511. Non-Activated Ignition Effects
+
+511.1.	Non-Activated Ignition Effects are effects that can be applied by the turn player during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority. It does not activate nor start a Chain.
+
+511.2.	Effects that can be applied when a condition is met are not Non-Activated Ignition Effects.
+
+511.3.	To apply a Non-Activated Ignition Effect all part of the effect must be able to be performed, if the entire effect cannot be applied a player cannot attempt to apply it.
 
 6. Summons
 
 600. General
 
-600.1.	A Summon is the only way to place a Monster in any Zone to a Monster Zone.
+600.1.	The different Summons are: Normal/Tribute Summon, Flip Summon, Special Summon, Fusion Summon, Link Summon, Pendulum Summon, Ritual Summon, Synchro Summon and Xyz Summon.
 
-600.2.	The different Summons are: Normal/Tribute Summon, Flip Summon, Special Summon, Fusion Summon, Link Summon, Pendulum Summon, Ritual Summon, Synchro Summon and Xyz Summon.
+600.2.	All Summon that happen outside of a chain resolving create a Response Window where card or effects can be activated called the Summon Response Window.
 
-600.3.	All Summon that happen outside of a chain resolving create a Response Window where card or effects can be activated called the Summon Response Window.
+600.3.	In addition to the Summon Response Window there is an additional Response Window that happened while the Monster is being Summoned called the Summon Negation Window.
 
-600.4.	In addition to the Summon Response Window there is an additional Response Window that happened while the Monster is being Summoned called the Summon Negation Window.
+600.3a.	A Summon Negation Window doesn’t occur if the Summon is performed while a Chain is resolving.
 
-600.4a.	A Summon Negation Window doesn’t occur if the Summon is performed while a Chain is resolving.
+600.3b.	An effect that performs a Summon via game mechanics will cause a Summon Negation Window if it was Chain Link 1 in a Chain. A card or effect will perform a Summon via game mechanics if it specifies that the Summon will occur “immediately after this [card/effect] resolves”.
 
-600.4b.	An effect that performs a Summon via game mechanics will cause a Summon Negation Window if it was Chain Link 1 in a Chain. A card or effect will perform a Summon via game mechanics if it specifies that the Summon will occur “immediately after this [card/effect] resolves”.
+600.3c.	During the Summon Negation Window the Monster being Summoned is not treated as being in any Zone or Location. The Zone where the monster would be Summoned cannot be used to Summon another monster even if the monster is yet to be Summoned.
 
-600.4c.	During the Summon Negation Window the Monster being Summoned is not treated as being in any Zone or Location. The Zone where the monster would be Summoned cannot be used to Summon another monster even if the monster is yet to be Summoned.
+600.3d.	A Monster being Summoned cannot activate its effects, its continuous effects do not apply and its substitution effects cannot be applied.
 
-600.4d.	A Monster being Summoned cannot activate its effects, its continuous effects do not apply and its substitution effects cannot be applied.
+600.3e.	If both player pass priority without activating a card or an effect the Summon Negation ends and the Monster is Summoned, after which the Summon Response Window happens.
 
-600.4e.	If both player pass priority without activating a card or an effect the Summon Negation ends and the Monster is Summoned, after which the Summon Response Window happens.
+600.3f.	The first effect activated during a Summon Negation Window must be an effect that would negate that Summon.
 
-600.4f.	The first effect activated during a Summon Negation Window must be an effect that would negate that Summon.
+600.3g.	After the first Chain Link all other cards and effects can be activated.
 
-600.4g.	After the first Chain Link all other cards and effects can be activated.
+600.3h.	A card or effect can negate a Summon if it can be activated when the monster “would be […] Summoned” and if it uses the term negate.
 
-600.4h.	A card or effect can negate a Summon if it can be activated when the monster “would be […] Summoned” and if it uses the term negate.
+600.3i.	After the Chain resolves if the Summon is not negated the Monster is immediately Summoned and no other card or effect can be activated.
 
-600.4i.	After the Chain resolves if the Summon is not negated the Monster is immediately Summoned and no other card or effect can be activated.
-
-600.4j.	If the Summon is negated the Monster is sent to the Graveyard, no Summon Response Window occurs and the Duel proceeds as normal.
+600.3j.	If the Summon is negated the Monster is sent to the Graveyard, no Summon Response Window occurs and the Duel proceeds as normal.
 601. Normal/Tribute Summon
 
 601.1.	A Normal/Tribute Summon is the process of Summoning a Monster from the hand, or the Monster Zone in the case of a Gemini Monster in a Monster Zone treated as a Normal Monster, to a Main Monster Zone.
@@ -1106,7 +1140,7 @@ DoubleSummon
 
 605.6.	The amount of Monsters used as Material for a Link Summon must be equal to the LINK Rating of the Monster being Link Summoned. A Link Monster used as Material for a Link Summon counts as either 1 monster or an amount exactly equal to its LINK Rating, the player performing the Link Summon can choose which of the 2 is applied.
 
-605.7.	If the Materials of a Link Summons are not sent to the Graveyard because of a card or effect but instead get sent to another location the Link Monster is still Summoned.
+605.7.	If the Materials of a Link Summons are not sent to the Graveyard because of an effect but instead get sent to another location the Link Monster is still Summoned.
 
 605.8.	A player can Link Summon to an Extra Monster Zone while they already control a Monster in the other Extra Monster Zone if doing so would create an Extra-Link. (See Extra-Link AHHHH)
 
@@ -1200,3 +1234,10 @@ DoubleSummon
 
 608.8.	If a card or effect prevents an Xyz Monster of a player from being Summoned and the removal of a Monster(s) on the field would allow that Xyz Monster to be Summoned that player cannot try to performs an Xyz Summon to Summon that Xyz Monster by using those Monster(s) on the field as Xyz Material.
 
+7. Special Actions
+
+700. General
+
+700.1.	A Special Action is an action a player can perform that is not activating a card or effect and performing a Summon. That player can only perform them during their Main Phase if there isn’t a chain forming or resolving, it’s not during a response window and they have priority. It does not activate nor start a Chain.
+
+700.2.	The Special Actions a player can perform are: Setting a Spell/Trap Card, changing the position of a monster from face-up attack to face-up defense and vice versa and Normal/Tribute Setting a Monster.
